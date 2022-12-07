@@ -1,0 +1,23 @@
+{
+  "status":"success",
+  "appVersion":"1.0.0",
+  "baseUrl":"https://raw.githubusercontent.com/0soul0/JsonData/main",
+  "file":[
+    {
+       "id":"1",
+       "fileName":"PoetryZh",
+       "dataVersion":"1",
+       "url":"/poetry/PoetryZh.json",
+       "updateDate":"2022-10-20",
+       "updates":"0" 
+    },
+    {
+       "id":"2",
+       "fileName":"PoetryZh",
+       "dataVersion":"1",
+       "url":"/poetry/PoetryZhAtt.json",
+       "updateDate":"2022-10-20",
+       "updates":"0"
+    }
+    ]
+}
