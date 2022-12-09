@@ -2,7 +2,7 @@
   "status":"success",
   "appVersion":"1.0.0",
   "baseUrl":"https://raw.githubusercontent.com/0soul0/JsonData/main",
-  "file":[
+  "files":[
     {
        "id":"1",
        "fileName":"PoetryZh",
