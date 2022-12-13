@@ -2,7 +2,7 @@
   "status":"success",
   "appVersion":"1.0.0",
   "baseUrl":"https://raw.githubusercontent.com/0soul0/JsonData/main",
-  "updateContent":"更新內容",
+  "updateContent":"更新內容描述",
   "files":[
     {
        "id":"1",
