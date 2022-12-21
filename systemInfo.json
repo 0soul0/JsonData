@@ -6,19 +6,11 @@
   "files":[
     {
        "id":"1",
-       "fileName":"PoetryZh",
-       "dataVersion":"1",
-       "url":"/poetry/PoetryZh.json",
-       "updateDate":"2022-10-20",
-       "updates":"0" 
-    },
-    {
-       "id":"2",
-       "fileName":"PoetryZh",
+       "fileName":"PoetryZhAtt",
        "dataVersion":"1",
        "url":"/poetry/PoetryZhAtt.json",
        "updateDate":"2022-10-20",
-       "updates":"0"
+       "updates":"0" 
     }
     ]
 }
