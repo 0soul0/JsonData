@@ -10,7 +10,26 @@
        "dataVersion":"1",
        "url":"/poetry/PoetryZhAtt.json",
        "updateDate":"2022-10-20",
-       "updates":"0" 
-    }
+       "updates":"0",
+       "dbType":"0",
+    },
+    {
+       "id":"10",
+       "fileName":"CategoryPoetryZh",
+       "dataVersion":"1",
+       "url":"/poetry/CategoryPoetryZh.json",
+       "updateDate":"2022-10-20",
+       "updates":"0",
+       "dbType":"0",
+    },
+    {
+       "id":"11",
+       "fileName":"SubCategoryPoetryZh",
+       "dataVersion":"1",
+       "url":"/poetry/SubCategoryPoetryZh.json",
+       "updateDate":"2022-10-20",
+       "updates":"0",
+       "dbType":"0",
+    },
     ]
 }
