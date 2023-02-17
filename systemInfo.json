@@ -31,6 +31,15 @@
        "updateDate":"2022-10-20",
        "updates":"0",
        "dbType":"subCategoryDb"
+    },
+    {
+       "id":"12",
+       "fileName":"Type",
+       "dataVersion":"1",
+       "url":"/poetry/Type.json",
+       "updateDate":"2022-10-20",
+       "updates":"0",
+       "dbType":"typeTable"
     }
     ]
 }
