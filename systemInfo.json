@@ -5,11 +5,39 @@
   "baseUrl":"https://raw.githubusercontent.com/0soul0/JsonData/main",
   "updateContent":"更新內容描述",
   "files":[
+
+    {
+       "id":"0",
+       "fileName":"PoetryZh",
+       "dataVersion":"1",
+       "url":"/poetry/PoetryZh.json",
+       "updateDate":"2022-10-20",
+       "updates":"0",
+       "dbType":"PoetryModel"
+    },
     {
        "id":"1",
        "fileName":"PoetryZhAtt",
        "dataVersion":"1",
        "url":"/poetry/PoetryZhAtt.json",
+       "updateDate":"2022-10-20",
+       "updates":"0",
+       "dbType":"PoetryModel"
+    },
+    {
+       "id":"4",
+       "fileName":"SupplementPoetryZh",
+       "dataVersion":"1",
+       "url":"/poetry/SupplementPoetryZh.json",
+       "updateDate":"2022-10-20",
+       "updates":"0",
+       "dbType":"PoetryModel"
+    },
+    {
+       "id":"5",
+       "fileName":"SupplementPoetryZhAtt",
+       "dataVersion":"1",
+       "url":"/poetry/SupplementPoetryZhAtt.json",
        "updateDate":"2022-10-20",
        "updates":"0",
        "dbType":"PoetryModel"
