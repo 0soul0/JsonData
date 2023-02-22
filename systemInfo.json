@@ -48,7 +48,7 @@
        "dataVersion":"1",
        "url":"/poetry/CategoryPoetryZh.json",
        "updateDate":"2022-10-20",
-       "updates":"0",
+       "updates":"1",
        "dbType":"CatalogueModel"
     },
     {
@@ -57,7 +57,7 @@
        "dataVersion":"1",
        "url":"/poetry/SubCategoryPoetryZh.json",
        "updateDate":"2022-10-20",
-       "updates":"0",
+       "updates":"1",
        "dbType":"SubCategoryModel"
     },
     {
@@ -66,7 +66,7 @@
        "dataVersion":"1",
        "url":"/poetry/Type.json",
        "updateDate":"2022-10-20",
-       "updates":"0",
+       "updates":"1",
        "dbType":"TypeModel"
     }
     ]
