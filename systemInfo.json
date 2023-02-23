@@ -5,7 +5,6 @@
   "baseUrl":"https://raw.githubusercontent.com/0soul0/JsonData/main",
   "updateContent":"更新內容描述",
   "files":[
-
     {
        "id":"0",
        "fileName":"Poetry",
@@ -41,7 +40,7 @@
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"SubCategoryModel"
-    }
+    },
     {
        "id":"11",
        "fileName":"SupplementPoetry",
