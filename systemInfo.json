@@ -12,7 +12,7 @@
        "dataVersion":"1",
        "url":"/poetry/PoetryZh.json",
        "updateDate":"2022-10-20",
-       "updates":"1",
+       "updates":"0",
        "dbType":"PoetryModel"
     },
     {
@@ -21,7 +21,7 @@
        "dataVersion":"1",
        "url":"/poetry/PoetryZhAtt.json",
        "updateDate":"2022-10-20",
-       "updates":"1",
+       "updates":"0",
        "dbType":"PoetryModel"
     },
     {
@@ -30,7 +30,7 @@
        "dataVersion":"1",
        "url":"/poetry/SupplementPoetryZh.json",
        "updateDate":"2022-10-20",
-       "updates":"0",
+       "updates":"1",
        "dbType":"PoetryModel"
     },
     {
@@ -39,7 +39,7 @@
        "dataVersion":"1",
        "url":"/poetry/SupplementPoetryZhAtt.json",
        "updateDate":"2022-10-20",
-       "updates":"0",
+       "updates":"1",
        "dbType":"PoetryModel"
     },
     {
