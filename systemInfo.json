@@ -12,7 +12,8 @@
        "url":"/poetry/Poetry.json",
        "updateDate":"2022-10-20",
        "updates":"0",
-       "dbType":"PoetryModel"
+       "dbType":"PoetryModel",
+       "name":"詩歌本"
     },
     {
        "id":"1",
@@ -21,7 +22,8 @@
        "url":"/poetry/PoetryAtt.json",
        "updateDate":"2022-10-20",
        "updates":"0",
-       "dbType":"PoetryModel"
+       "dbType":"PoetryModel",
+       "name":"詩歌本(附)"
     },
     {
        "id":"2",
@@ -30,7 +32,8 @@
        "url":"/poetry/CategoryPoetry.json",
        "updateDate":"2022-10-20",
        "updates":"1",
-       "dbType":"CatalogueModel"
+       "dbType":"CatalogueModel",
+       "name":"詩歌本(目錄)"
     },
     {
        "id":"3",
@@ -39,7 +42,8 @@
        "url":"/poetry/SubCategoryPoetry.json",
        "updateDate":"2022-10-20",
        "updates":"1",
-       "dbType":"SubCategoryModel"
+       "dbType":"SubCategoryModel",
+       "name":"詩歌本(子目錄)"
     },
     {
        "id":"11",
@@ -48,7 +52,8 @@
        "url":"/poetry/SupplementPoetry.json",
        "updateDate":"2022-10-20",
        "updates":"1",
-       "dbType":"PoetryModel"
+       "dbType":"PoetryModel",
+       "name":"補充本"
     }
     ]
 }
