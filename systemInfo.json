@@ -49,15 +49,6 @@
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"PoetryModel"
-    },
-    {
-       "id":"12",
-       "fileName":"SupplementPoetryAtt",
-       "dataVersion":"1",
-       "url":"/poetry/SupplementPoetryAtt.json",
-       "updateDate":"2022-10-20",
-       "updates":"1",
-       "dbType":"PoetryModel"
     }
     ]
 }
