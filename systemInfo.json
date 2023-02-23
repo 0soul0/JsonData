@@ -8,43 +8,25 @@
 
     {
        "id":"0",
-       "fileName":"PoetryZh",
+       "fileName":"Poetry",
        "dataVersion":"1",
-       "url":"/poetry/PoetryZh.json",
+       "url":"/poetry/Poetry.json",
        "updateDate":"2022-10-20",
        "updates":"0",
        "dbType":"PoetryModel"
     },
     {
        "id":"1",
-       "fileName":"PoetryZhAtt",
+       "fileName":"PoetryAtt",
        "dataVersion":"1",
-       "url":"/poetry/PoetryZhAtt.json",
+       "url":"/poetry/PoetryAtt.json",
        "updateDate":"2022-10-20",
        "updates":"0",
        "dbType":"PoetryModel"
     },
     {
-       "id":"4",
-       "fileName":"SupplementPoetryZh",
-       "dataVersion":"1",
-       "url":"/poetry/SupplementPoetryZh.json",
-       "updateDate":"2022-10-20",
-       "updates":"1",
-       "dbType":"PoetryModel"
-    },
-    {
-       "id":"5",
-       "fileName":"SupplementPoetryZhAtt",
-       "dataVersion":"1",
-       "url":"/poetry/SupplementPoetryZhAtt.json",
-       "updateDate":"2022-10-20",
-       "updates":"1",
-       "dbType":"PoetryModel"
-    },
-    {
-       "id":"10",
-       "fileName":"CategoryPoetryZh",
+       "id":"2",
+       "fileName":"CategoryPoetry",
        "dataVersion":"1",
        "url":"/poetry/CategoryPoetryZh.json",
        "updateDate":"2022-10-20",
@@ -52,22 +34,31 @@
        "dbType":"CatalogueModel"
     },
     {
-       "id":"11",
-       "fileName":"SubCategoryPoetryZh",
+       "id":"3",
+       "fileName":"SubCategoryPoetry",
        "dataVersion":"1",
-       "url":"/poetry/SubCategoryPoetryZh.json",
+       "url":"/poetry/SubCategoryPoetry.json",
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"SubCategoryModel"
+    }
+    {
+       "id":"11",
+       "fileName":"SupplementPoetry",
+       "dataVersion":"1",
+       "url":"/poetry/SupplementPoetry.json",
+       "updateDate":"2022-10-20",
+       "updates":"1",
+       "dbType":"PoetryModel"
     },
     {
        "id":"12",
-       "fileName":"Type",
+       "fileName":"SupplementPoetryAtt",
        "dataVersion":"1",
-       "url":"/poetry/Type.json",
+       "url":"/poetry/SupplementPoetryAtt.json",
        "updateDate":"2022-10-20",
        "updates":"1",
-       "dbType":"TypeModel"
-    }
+       "dbType":"PoetryModel"
+    },
     ]
 }
