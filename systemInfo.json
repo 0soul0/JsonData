@@ -54,6 +54,16 @@
        "updates":"1",
        "dbType":"PoetryModel",
        "name":"補充本"
+    },
+    {
+       "id":"13",
+       "fileName":"SupplementCategoryPoetry",
+       "dataVersion":"1",
+       "url":"/poetry/SupplementCategoryPoetry.json",
+       "updateDate":"2022-10-20",
+       "updates":"1",
+       "dbType":"CatalogueModel",
+       "name":"補充本(目錄)"
     }
     ]
 }
