@@ -1,9 +1,9 @@
 {
   "id":"formal",
   "status":"success",
-  "appVersion":"1.0.0",
+  "appVersion":"1.0.1",
   "baseUrl":"https://raw.githubusercontent.com/0soul0/JsonData/main",
-  "updateContent":"更新內容描述",
+  "updateContent":"1.收錄詩歌\n 2.收錄補充本",
   "files":[
     {
        "id":"0",
