@@ -41,7 +41,7 @@
        "dataVersion":"1",
        "url":"/poetry/SubCategoryPoetry.json",
        "updateDate":"2022-10-20",
-       "updates":"1",
+       "updates":"0",
        "dbType":"SubCategoryModel",
        "name":"詩歌本(子目錄)"
     },
@@ -51,7 +51,7 @@
        "dataVersion":"1",
        "url":"/poetry/SupplementPoetry.json",
        "updateDate":"2022-10-20",
-       "updates":"1",
+       "updates":"0",
        "dbType":"PoetryModel",
        "name":"補充本"
     },
@@ -61,7 +61,7 @@
        "dataVersion":"1",
        "url":"/poetry/SupplementCategoryPoetry.json",
        "updateDate":"2022-10-20",
-       "updates":"1",
+       "updates":"0",
        "dbType":"CatalogueModel",
        "name":"補充本(目錄)"
     }
