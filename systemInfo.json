@@ -11,7 +11,7 @@
        "dataVersion":"1",
        "url":"/poetry/Poetry.json",
        "updateDate":"2022-10-20",
-       "updates":"0",
+       "updates":"1",
        "dbType":"PoetryModel",
        "name":"詩歌本"
     },
@@ -21,7 +21,7 @@
        "dataVersion":"1",
        "url":"/poetry/PoetryAtt.json",
        "updateDate":"2022-10-20",
-       "updates":"0",
+       "updates":"1",
        "dbType":"PoetryModel",
        "name":"詩歌本(附)"
     },
