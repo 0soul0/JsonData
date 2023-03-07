@@ -1,7 +1,7 @@
 {
   "id":"formal",
   "status":"success",
-  "appVersion":"1.0.1",
+  "appVersion":"1.0.0",
   "baseUrl":"https://raw.githubusercontent.com/0soul0/JsonData/main",
   "updateContent":"1.收錄詩歌\n 2.收錄補充本",
   "files":[
@@ -41,7 +41,7 @@
        "dataVersion":"1",
        "url":"/poetry/SubCategoryPoetry.json",
        "updateDate":"2022-10-20",
-       "updates":"0",
+       "updates":"1",
        "dbType":"SubCategoryModel",
        "name":"詩歌本(子目錄)"
     },
@@ -51,7 +51,7 @@
        "dataVersion":"1",
        "url":"/poetry/SupplementPoetry.json",
        "updateDate":"2022-10-20",
-       "updates":"0",
+       "updates":"1",
        "dbType":"PoetryModel",
        "name":"補充本"
     },
@@ -61,7 +61,7 @@
        "dataVersion":"1",
        "url":"/poetry/SupplementCategoryPoetry.json",
        "updateDate":"2022-10-20",
-       "updates":"0",
+       "updates":"1",
        "dbType":"CatalogueModel",
        "name":"補充本(目錄)"
     }
