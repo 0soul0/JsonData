@@ -64,6 +64,47 @@
        "updates":"1",
        "dbType":"CatalogueModel",
        "name":"補充本(目錄)"
+    },
+    ,
+    {
+       "id":"16",
+       "fileName":"NewSongOfPraise",
+       "dataVersion":"1",
+       "url":"/poetry/NewSongOfPraise.json",
+       "updateDate":"2022-10-20",
+       "updates":"1",
+       "dbType":"PoetryModel",
+       "name":"新歌頌詠"
+    },
+    {
+       "id":"17",
+       "fileName":"NewSongOfPraiseCategory",
+       "dataVersion":"1",
+       "url":"/poetry/NewSongOfPraiseCategory.json",
+       "updateDate":"2022-10-20",
+       "updates":"1",
+       "dbType":"CatalogueModel",
+       "name":"新歌頌詠(目錄)"
+    },
+    {
+       "id":"21",
+       "fileName":"ChildrensHymn",
+       "dataVersion":"1",
+       "url":"/poetry/ChildrensHymn.json",
+       "updateDate":"2022-10-20",
+       "updates":"1",
+       "dbType":"PoetryModel",
+       "name":"兒童詩歌"
+    },
+     {
+       "id":"22",
+       "fileName":"ChildrensHymnCategory",
+       "dataVersion":"1",
+       "url":"/poetry/ChildrensHymnCategory.json",
+       "updateDate":"2022-10-20",
+       "updates":"1",
+       "dbType":"CatalogueModel",
+       "name":"兒童詩歌(目錄)"
     }
     ]
 }
