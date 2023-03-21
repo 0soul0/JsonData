@@ -68,7 +68,7 @@
     {
        "id":"16",
        "fileName":"NewSongOfPraise",
-       "dataVersion":"2",
+       "dataVersion":"1",
        "url":"/poetry/NewSongOfPraise.json",
        "updateDate":"2022-10-20",
        "updates":"1",
@@ -88,7 +88,7 @@
     {
        "id":"21",
        "fileName":"ChildrensHymn",
-       "dataVersion":"2",
+       "dataVersion":"1",
        "url":"/poetry/ChildrensHymn.json",
        "updateDate":"2022-10-20",
        "updates":"1",
