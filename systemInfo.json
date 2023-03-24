@@ -1,9 +1,9 @@
 {
   "id":"formal",
   "status":"success",
-  "appVersion":"1.0.0",
+  "appVersion":"1.0.1",
   "baseUrl":"https://raw.githubusercontent.com/0soul0/JsonData/main",
-  "updateContent":"1.收錄詩歌\n2.收錄補充本\n3.新歌頌詠\n4.兒童詩歌",
+  "updateContent":"收錄\n1.詩歌\n2.補充本\n3.新歌頌詠\n4.兒童詩歌\n5.新詩",
   "files":[
     {
        "id":"0",
@@ -104,6 +104,16 @@
        "updates":"1",
        "dbType":"CatalogueModel",
        "name":"兒童詩歌(目錄)"
+    },
+     {
+       "id":"26",
+       "fileName":"NewHymns",
+       "dataVersion":"1",
+       "url":"/poetry/NewHymns.json",
+       "updateDate":"2022-10-20",
+       "updates":"1",
+       "dbType":"PoetryModel",
+       "name":"新詩"
     }
     ]
 }
