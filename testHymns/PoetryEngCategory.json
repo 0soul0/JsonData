@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "statusCode": 200,
+    "data": [
+        {
+            "id": "3ca17effa06e405287c5799ccbcf4240",
+            "category": "Blessing of the Trinity",
+            "type": 31
+        },
+        {
+            "id": "1519d56e2bfb4e8d92f0362f92e0145a",
+            "category": "Praise of the Lord",
+            "type": 31
+        },
+        {
+            "id": "4b1ebd6a7a154b9baa62ebc720cf0eab",
+            "category": "",
+            "type": 31
+        },
+        {
+            "id": "5bed58bfb5e44c298c78a360ef3ea622",
+            "category": "",
+            "type": 31
+        },
+        {
+            "id": "51b8e8ec1a88411595e13df3f4e94072",
+            "category": "Blood Gospel",
+            "type": 31
+        }
+    ]
+}
