@@ -13,7 +13,7 @@
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"PoetryModel",
-       "name":"詩歌本"
+       "name":"詩歌本,(CN)Hymns"
     },
     {
        "id":"1",
@@ -23,7 +23,7 @@
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"PoetryModel",
-       "name":"詩歌本(附)"
+       "name":"詩歌本(附),(CN)Hymns(Appx.)"
     },
     {
        "id":"2",
@@ -33,7 +33,7 @@
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"CatalogueModel",
-       "name":"詩歌本(目錄)"
+       "name":"詩歌本(目錄),(CN)Hymns(Class.)"
     },
     {
        "id":"3",
@@ -43,7 +43,7 @@
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"SubCategoryModel",
-       "name":"詩歌本(子目錄)"
+       "name":"詩歌本(子目錄),(CN)Hymns(Subc.)"
     },
     {
        "id":"11",
@@ -123,7 +123,7 @@
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"PoetryModel",
-       "name":"詩歌(英文)"
+       "name":"詩歌(英文),Hymns"
     },
     {
        "id":"32",
@@ -133,7 +133,7 @@
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"CatalogueModel",
-       "name":"詩歌(英文目錄)"
+       "name":"詩歌(英文目錄),Hymns(Class.)"
     }
     ]
 }
