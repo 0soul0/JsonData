@@ -1,7 +1,7 @@
 {
   "id":"formal",
   "status":"success",
-  "appVersion":"1.2.1",
+  "appVersion":"1.3.1",
   "baseUrl":"https://raw.githubusercontent.com/0soul0/JsonData/main",
   "updateContent":"收錄\n1.詩歌\n2.補充本\n3.新歌頌詠\n4.兒童詩歌\n5.新詩",
   "files":[
