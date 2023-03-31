@@ -25,7 +25,8 @@
                 {
                     "spanish": "/hymn/hs/61"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp1.jpg"
         },
         {
             "id": "bd4dae0890d6470e8cef5332ee012edd",
@@ -47,7 +48,8 @@
                 {
                     "english": "/hymn/h/1094"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp2.jpg"
         },
         {
             "id": "077770985ff74338aac421a8458ed4fe",
@@ -72,7 +74,8 @@
                 {
                     "spanish": "/hymn/hs/63"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp3.jpg"
         },
         {
             "id": "3dd0738cb47a4ec0b80f0b2b80a41742",
@@ -90,7 +93,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp4.jpg"
         },
         {
             "id": "cc97148ccc71457fba128c19fb26b48d",
@@ -115,7 +119,8 @@
                 {
                     "french": "/hymn/hf/213"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp5.jpg"
         },
         {
             "id": "770d1abf50984da68cbdc1459a51564b",
@@ -140,7 +145,8 @@
                 {
                     "spanish": "/hymn/hs/64"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp6.jpg"
         },
         {
             "id": "5e46cc69dac340b8811ac3d99991b71e",
@@ -162,7 +168,8 @@
                 {
                     "english": "/hymn/h/1099"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp7.jpg"
         },
         {
             "id": "27a2c42af80f4587b9c84408ab013042",
@@ -187,7 +194,8 @@
                 {
                     "spanish": "/hymn/hs/495"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp8.jpg"
         },
         {
             "id": "51c4754ce97049369134376425467c27",
@@ -209,7 +217,8 @@
                 {
                     "english": "/hymn/h/1100"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp9.jpg"
         },
         {
             "id": "b9b5b79f97b04f3185cae8ee34a547ba",
@@ -227,7 +236,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp10.jpg"
         },
         {
             "id": "d5882dc10fa84fb982d9b01beb609b1a",
@@ -245,7 +255,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp11.jpg"
         },
         {
             "id": "c61d4ba4596a49bcb7b643cbe1be2017",
@@ -263,7 +274,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp12.jpg"
         },
         {
             "id": "f3f86f4239e84ed4b2ae0ff346e4226b",
@@ -281,7 +293,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0266.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0266.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp13.jpg"
         },
         {
             "id": "29bde3a48de845018ba56e87f091836d",
@@ -299,7 +312,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp14.jpg"
         },
         {
             "id": "f1bc681cd44040969cd248c892b801b6",
@@ -317,7 +331,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0131.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0131.ogg",
             "singMedia": "https://www.hymnal.net/Hymns/ChineseTS/mp3/ts_0015_vocal.mp3",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp15.jpg"
         },
         {
             "id": "d97062dd4c4b43249e60fdaf5a8bb985",
@@ -335,7 +350,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1222_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1222_i.ogg",
             "singMedia": "https://www.hymnal.net/Hymns/ChineseTS/mp3/ts_0016_vocal.mp3",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp16.jpg"
         },
         {
             "id": "1aca8adf1b4c48ceb3af018f6a61847c",
@@ -353,7 +369,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp17.jpg"
         },
         {
             "id": "40c56c8f365e4053a224c1b0b74372d2",
@@ -378,7 +395,8 @@
                 {
                     "spanish": "/hymn/hs/146"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp18.jpg"
         },
         {
             "id": "e0ff0f11ebc4427c8a5e1d584b3f3933",
@@ -400,7 +418,8 @@
                 {
                     "english": "/hymn/h/290"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp19.jpg"
         },
         {
             "id": "c75eaac71fd041ad9a23d18da375f37f",
@@ -428,7 +447,8 @@
                 {
                     "spanish": "/hymn/hs/71"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp20.jpg"
         },
         {
             "id": "868e61871d134c54acf028cbf041b457",
@@ -446,7 +466,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp21.jpg"
         },
         {
             "id": "b04f86d4c99847baaf792eaf512a5813",
@@ -471,7 +492,8 @@
                 {
                     "spanish": "/hymn/hs/75"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp22.jpg"
         },
         {
             "id": "2280053547044aec9512d183f03f2aef",
@@ -496,7 +518,8 @@
                 {
                     "spanish": "/hymn/hs/85"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp23.jpg"
         },
         {
             "id": "7870d555fd8b4379b6dd2a9f66bc26cb",
@@ -518,7 +541,8 @@
                 {
                     "english": "/hymn/h/185"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp24.jpg"
         },
         {
             "id": "a4d01ac3212c4361a8065ea33a11f9c4",
@@ -540,7 +564,8 @@
                 {
                     "english": "/hymn/h/1340"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp25.jpg"
         },
         {
             "id": "17b87a960b834411988ec425a0d75dff",
@@ -558,7 +583,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp26.jpg"
         },
         {
             "id": "aef2621da08d4a38815073c174e55aec",
@@ -586,7 +612,8 @@
                 {
                     "spanish": "/hymn/hs/218"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp27.jpg"
         },
         {
             "id": "ce0584a0ca8a4005960736653b864413",
@@ -608,7 +635,8 @@
                 {
                     "english": "/hymn/h/285"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp28.jpg"
         },
         {
             "id": "a6091aa0704b4da2aa51b7ad46f21c28",
@@ -630,7 +658,8 @@
                 {
                     "english": "/hymn/h/1092"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp29.jpg"
         },
         {
             "id": "236fb366497c492ca233eeab301f5b76",
@@ -652,7 +681,8 @@
                 {
                     "english": "/hymn/h/1102"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp30.jpg"
         },
         {
             "id": "7146ab7885e24315a5bb0049229322de",
@@ -677,7 +707,8 @@
                 {
                     "spanish": "/hymn/hs/109"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp31.jpg"
         },
         {
             "id": "539250efbdb14f429e2421389cede72d",
@@ -699,7 +730,8 @@
                 {
                     "english": "/hymn/h/1082"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp32.jpg"
         },
         {
             "id": "14783c7a06b243ef99958e4ff59696a5",
@@ -724,7 +756,8 @@
                 {
                     "spanish": "/hymn/hs/248"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp33.jpg"
         },
         {
             "id": "0a6e5384ee044a56b812b17510264563",
@@ -746,7 +779,8 @@
                 {
                     "english": "/hymn/h/1130"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp34.jpg"
         },
         {
             "id": "eb2c91036dca4da7a97f4d29094d42cd",
@@ -764,7 +798,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp35.jpg"
         },
         {
             "id": "2f16507a90ca476c8f9aacef7a9c16f3",
@@ -782,7 +817,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0526.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0526.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp36.jpg"
         },
         {
             "id": "bf52ed85357743cabfe08efb60408445",
@@ -810,7 +846,8 @@
                 {
                     "spanish": "/hymn/hs/370"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp37.jpg"
         },
         {
             "id": "bb4ef1a5061940f7be5f7a5c8bf46510",
@@ -835,7 +872,8 @@
                 {
                     "spanish": "/hymn/hs/126"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp101.jpg"
         },
         {
             "id": "b37fa469ef5c4579abdc9c4837c29275",
@@ -863,7 +901,8 @@
                 {
                     "spanish": "/hymn/hs/136"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp102.jpg"
         },
         {
             "id": "ee633867410f4138905e7189137a21ab",
@@ -881,7 +920,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0135_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0135_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp103.jpg"
         },
         {
             "id": "4c235472bef84854babe59f955dfb9f7",
@@ -899,7 +939,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0241_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0241_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp104.jpg"
         },
         {
             "id": "40caed24b9f94ae085872e25dc4bc224",
@@ -917,7 +958,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0103.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0103.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp105.jpg"
         },
         {
             "id": "df35ce80b71a47a48ed638121c4d2065",
@@ -935,7 +977,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp106.jpg"
         },
         {
             "id": "72ce14cf5bee4cffbd10bd6c75ef984a",
@@ -953,7 +996,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0170.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0170.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp107.jpg"
         },
         {
             "id": "1302d9a0d80b4150a20e518af033685a",
@@ -981,7 +1025,8 @@
                 {
                     "spanish": "/hymn/hs/124"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp108.jpg"
         },
         {
             "id": "75afa7e60c4d47f59a3fc7a98bf32caf",
@@ -1003,7 +1048,8 @@
                 {
                     "english": "/hymn/h/1118"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp109.jpg"
         },
         {
             "id": "6a095e41822147aa89ea94ae2a0bedcb",
@@ -1028,7 +1074,8 @@
                 {
                     "spanish": "/hymn/hs/122"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp110.jpg"
         },
         {
             "id": "2717f53df221427d9c9718ae4b39f474",
@@ -1046,7 +1093,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1257_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1257_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp111.jpg"
         },
         {
             "id": "3e20722ae051493b96fea3a1e9bb18aa",
@@ -1064,7 +1112,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp112.jpg"
         },
         {
             "id": "a80972e44621434a8567938a9085504d",
@@ -1082,7 +1131,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0187.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0187.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp113.jpg"
         },
         {
             "id": "2b5cd145bc3c48f5bf0dad90fd2b8e23",
@@ -1100,7 +1150,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Children/mp3/c0073.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Children/ogg/c0073.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp114.jpg"
         },
         {
             "id": "a8559d3c21cf4437a51e8fb32eea9168",
@@ -1118,7 +1169,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp115.jpg"
         },
         {
             "id": "269d0aae3edc4e20890f22841697d3a7",
@@ -1146,7 +1198,8 @@
                 {
                     "spanish": "/hymn/hs/206"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp116.jpg"
         },
         {
             "id": "4d3c549be58a43519570b9b1bac7717f",
@@ -1164,7 +1217,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp117.jpg"
         },
         {
             "id": "d92891a9460a46e3a5ee04a278cb461a",
@@ -1182,7 +1236,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0354.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0354.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp118.jpg"
         },
         {
             "id": "5aa078037143460a9d13fc81554fe7b8",
@@ -1200,7 +1255,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp119.jpg"
         },
         {
             "id": "5f3b6ef6d7bd42cca3272c320b661ebe",
@@ -1228,7 +1284,8 @@
                 {
                     "spanish": "/hymn/hs/219"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp120.jpg"
         },
         {
             "id": "889646e786624bd3962fdc74c7ebed24",
@@ -1246,7 +1303,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp121.jpg"
         },
         {
             "id": "a32cf8655e0c4425b871623065a58e88",
@@ -1274,7 +1332,8 @@
                 {
                     "spanish": "/hymn/hs/249"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp122.jpg"
         },
         {
             "id": "7e90ae3a57db45c0bd032f3c61dbd4ee",
@@ -1292,7 +1351,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp123.jpg"
         },
         {
             "id": "08fbba1f4d644adfb1456b8e3adbbddc",
@@ -1310,7 +1370,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0188.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0188.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp124.jpg"
         },
         {
             "id": "e99571dc164c49a8a1dd2748f47c65bd",
@@ -1332,7 +1393,8 @@
                 {
                     "english": "/hymn/h/1242"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp125.jpg"
         },
         {
             "id": "e53d6a9456224ddea8ee8bc787d142e0",
@@ -1350,7 +1412,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp126.jpg"
         },
         {
             "id": "b8cbf98794854ba293d7a8ab44a57e9c",
@@ -1368,7 +1431,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewTunes/mp3/e0323_new.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewTunes/ogg/e0323_new.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp127.jpg"
         },
         {
             "id": "fca5cd1c735b403d94d226cd87a0e829",
@@ -1386,7 +1450,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp128.jpg"
         },
         {
             "id": "932d0eecf61f4bc3928326be21134653",
@@ -1404,7 +1469,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp129.jpg"
         },
         {
             "id": "32a4a5fd7a154eedbcfd74838977d551",
@@ -1422,7 +1488,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp130.jpg"
         },
         {
             "id": "0d063bc524764a598a3c44d1401cb82f",
@@ -1450,7 +1517,8 @@
                 {
                     "spanish": "/hymn/hs/251"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp131.jpg"
         },
         {
             "id": "97046ca8286245d988e99eb1e3944ca4",
@@ -1475,7 +1543,8 @@
                 {
                     "spanish": "/hymn/hs/281"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp132.jpg"
         },
         {
             "id": "ec1098168c214c13bac9c31e74beb32b",
@@ -1497,7 +1566,8 @@
                 {
                     "english": "/hymn/h/1172"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp133.jpg"
         },
         {
             "id": "bd9e8122d5ad44f2942c671929f94698",
@@ -1515,7 +1585,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e6134_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e6134_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp134.jpg"
         },
         {
             "id": "21e0150518604414a6639003282b32dd",
@@ -1533,7 +1604,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp135.jpg"
         },
         {
             "id": "2a3a786c378345b19538f724ef48a9ab",
@@ -1551,7 +1623,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0075.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0075.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp136.jpg"
         },
         {
             "id": "34cd514b906c4a5b880f937f1b315062",
@@ -1569,7 +1642,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp137.jpg"
         },
         {
             "id": "b3c650e4c7e7436f87b219a8918de7b3",
@@ -1591,7 +1665,8 @@
                 {
                     "english": "/hymn/h/260"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp138.jpg"
         },
         {
             "id": "58e8026f931345b3a998eb5cfbd81be7",
@@ -1616,7 +1691,8 @@
                 {
                     "spanish": "/hymn/hs/125"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp139.jpg"
         },
         {
             "id": "af571f5d6878455d96ca741c0e886b7a",
@@ -1638,7 +1714,8 @@
                 {
                     "english": "/hymn/h/1123"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp140.jpg"
         },
         {
             "id": "11121847c9d44bca801f09733ebf2018",
@@ -1666,7 +1743,8 @@
                 {
                     "spanish": "/hymn/hs/223"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp141.jpg"
         },
         {
             "id": "bcb11da2a042410c974440d1f5f397d1",
@@ -1694,7 +1772,8 @@
                 {
                     "spanish": "/hymn/hs/223"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp142.jpg"
         },
         {
             "id": "848bc467f3f1460ca4c3c3b6f274b8a3",
@@ -1716,7 +1795,8 @@
                 {
                     "english": "/hymn/h/1200"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp143.jpg"
         },
         {
             "id": "cec547d40e71491db251d72acd6bdbb8",
@@ -1738,7 +1818,8 @@
                 {
                     "english": "/hymn/h/1213"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp144.jpg"
         },
         {
             "id": "eac442cd152e4569b985035f0ae13ce4",
@@ -1760,7 +1841,8 @@
                 {
                     "english": "/hymn/h/1297"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp145.jpg"
         },
         {
             "id": "5ee2325a559a4bb98ae10907d2a34369",
@@ -1778,7 +1860,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0242_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0242_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp146.jpg"
         },
         {
             "id": "becfca3c06e9403d9589c07b61dd286a",
@@ -1796,7 +1879,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp147.jpg"
         },
         {
             "id": "7047b68f603e4059982337e2b7d3b118",
@@ -1814,7 +1898,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/LongBeach/mp3/lb60.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/LongBeach/ogg/lb60.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp148.jpg"
         },
         {
             "id": "368a1845d2d94e7db08b2d1318f2066f",
@@ -1832,7 +1917,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp149.jpg"
         },
         {
             "id": "7dd69018204c4c8faaec77072d0d6393",
@@ -1850,7 +1936,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp150.jpg"
         },
         {
             "id": "2dcd3d35c5bf4b3b8cabe98b64fe1062",
@@ -1875,7 +1962,8 @@
                 {
                     "spanish": "/hymn/hs/275"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp201.jpg"
         },
         {
             "id": "cde167c3dc2f4a35ae9dc823402166e2",
@@ -1903,7 +1991,8 @@
                 {
                     "spanish": "/hymn/hs/276"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp202.jpg"
         },
         {
             "id": "c88285ecd6fd4332b17c77e991f13467",
@@ -1921,7 +2010,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp203.jpg"
         },
         {
             "id": "79a1472efdd84560938b2bed850fe1c3",
@@ -1939,7 +2029,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp204.jpg"
         },
         {
             "id": "bff21142715140d1a1f334bd58f741ad",
@@ -1957,7 +2048,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp205.jpg"
         },
         {
             "id": "cfc18cd667584180aae2d7788a009666",
@@ -1975,7 +2067,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0298_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0298_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp206.jpg"
         },
         {
             "id": "6ac8c14f46534f1bae368e1a4d70807c",
@@ -1993,7 +2086,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp207.jpg"
         },
         {
             "id": "a8abe0a30a674d0798fd02447a536ce9",
@@ -2011,7 +2105,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp208.jpg"
         },
         {
             "id": "5f06775df4244196a5cab23abd63bce0",
@@ -2036,7 +2131,8 @@
                 {
                     "spanish": "/hymn/hs/225"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp209.jpg"
         },
         {
             "id": "1a5c96f9924b45f3b13e3d8e3c570630",
@@ -2061,7 +2157,8 @@
                 {
                     "spanish": "/hymn/hs/226"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp210.jpg"
         },
         {
             "id": "227fe4df3aee449c9b3c23bb39932a3e",
@@ -2079,7 +2176,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0120.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0120.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp211.jpg"
         },
         {
             "id": "c51db66a04734f45b38ef6f306b9edae",
@@ -2104,7 +2202,8 @@
                 {
                     "spanish": "/hymn/hs/107"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp212.jpg"
         },
         {
             "id": "0a8464f5d4db429b86de662d92d18abc",
@@ -2122,7 +2221,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0006_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0006_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp213.jpg"
         },
         {
             "id": "cedf0b3f94584b319fc5c1888c5aa2b2",
@@ -2150,7 +2250,8 @@
                 {
                     "spanish": "/hymn/hs/388"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp214.jpg"
         },
         {
             "id": "6fcb53c16d814854b9fc5b56542b02b8",
@@ -2175,7 +2276,8 @@
                 {
                     "spanish": "/hymn/hs/228"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp215.jpg"
         },
         {
             "id": "0313daae4dee48bcb540aa8cdd14f0d4",
@@ -2203,7 +2305,8 @@
                 {
                     "spanish": "/hymn/hs/231"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp216.jpg"
         },
         {
             "id": "5d9e3530fa284903babbe0eac0a2d815",
@@ -2228,7 +2331,8 @@
                 {
                     "spanish": "/hymn/hs/118"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp217.jpg"
         },
         {
             "id": "1c946f0a048243d1b53a5e6fc277df0b",
@@ -2256,7 +2360,8 @@
                 {
                     "spanish": "/hymn/hs/230"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp218.jpg"
         },
         {
             "id": "43cd62b0a1764ceb8ac22f7b52eca71c",
@@ -2274,7 +2379,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp219.jpg"
         },
         {
             "id": "2c60468e8080494690fa4bd99d5b45c9",
@@ -2299,7 +2405,8 @@
                 {
                     "spanish": "/hymn/hs/377"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp220.jpg"
         },
         {
             "id": "bf0194af30e948cb8d25d62148a6278c",
@@ -2324,7 +2431,8 @@
                 {
                     "spanish": "/hymn/hs/229"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp221.jpg"
         },
         {
             "id": "aeae429aab924c549df2a73f52e4eb91",
@@ -2342,7 +2450,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1015_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1015_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp222.jpg"
         },
         {
             "id": "2f165e9848ce42b796457dcf7cab4d17",
@@ -2360,7 +2469,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0103.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0103.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp223.jpg"
         },
         {
             "id": "89b79a9e73ba40708beb4b7bf5f80e43",
@@ -2378,7 +2488,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp224.jpg"
         },
         {
             "id": "be81fa54ed934aaeb6fcce4e81e01dab",
@@ -2403,7 +2514,8 @@
                 {
                     "spanish": "/hymn/hs/45"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp225.jpg"
         },
         {
             "id": "49a98587db2641319d73b37439931b86",
@@ -2425,7 +2537,8 @@
                 {
                     "english": "/hymn/h/6226"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp226.jpg"
         },
         {
             "id": "68e9595e4f3a4c348c58d4b3077c381e",
@@ -2450,7 +2563,8 @@
                 {
                     "french": "/hymn/hf/16"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp227.jpg"
         },
         {
             "id": "e828fde1fadc47629d7ca4850ae94bb0",
@@ -2468,7 +2582,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp228.jpg"
         },
         {
             "id": "ebc201c69cd043e2999ec0ad71cbe16c",
@@ -2486,7 +2601,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp229.jpg"
         },
         {
             "id": "f99e3ea33e86494a870a2a582da31593",
@@ -2504,7 +2620,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1017_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1017_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp230.jpg"
         },
         {
             "id": "98d5ac754a0349e49bbbcd0b0d791ef1",
@@ -2522,7 +2639,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp231.jpg"
         },
         {
             "id": "4caff79043c44a79869b23df387f9918",
@@ -2540,7 +2658,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0560.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0560.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp232.jpg"
         },
         {
             "id": "28f3a5dfa48f43a9ad46d9162cedf1ba",
@@ -2558,7 +2677,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0124.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0124.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp233.jpg"
         },
         {
             "id": "49e033d33ada4965a2e9f54241873cb0",
@@ -2576,7 +2696,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Children/mp3/c0032.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Children/ogg/c0032.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp234.jpg"
         },
         {
             "id": "1006a41aea0544739659ffda27fbab9f",
@@ -2594,7 +2715,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0201.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0201.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp235.jpg"
         },
         {
             "id": "9f03e0429281438a94ccaba2ef85321e",
@@ -2612,7 +2734,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp236.jpg"
         },
         {
             "id": "12bdcc4da02347978b01d541f8e45a11",
@@ -2630,7 +2753,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp237.jpg"
         },
         {
             "id": "fa601eeaa25c48ef8e3c2442d4765eb9",
@@ -2648,7 +2772,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp238.jpg"
         },
         {
             "id": "347f0d5c77924ee88bda3f8841467f47",
@@ -2666,7 +2791,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp239.jpg"
         },
         {
             "id": "819aa0eb53764de29a07305f245afb95",
@@ -2684,7 +2810,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp240.jpg"
         },
         {
             "id": "88fc00fee9674a418427d78b47ab88ef",
@@ -2702,7 +2829,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1196_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1196_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp241.jpg"
         },
         {
             "id": "8b7d06c816c24d059770fe6fe7cc10b0",
@@ -2720,7 +2848,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp242.jpg"
         },
         {
             "id": "c73fd9059ad94cdab37c708d5b6ea055",
@@ -2745,7 +2874,8 @@
                 {
                     "spanish": "/hymn/hs/404"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp243.jpg"
         },
         {
             "id": "8586ee10e753470d80b66aa4801a04a6",
@@ -2763,7 +2893,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0124.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0124.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp244.jpg"
         },
         {
             "id": "63f746c1464a450095e2c1795338904a",
@@ -2785,7 +2916,8 @@
                 {
                     "english": "/hymn/h/1165"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp245.jpg"
         },
         {
             "id": "1ba7ceb9c7254ccb8ac2bb87e358262f",
@@ -2803,7 +2935,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1278_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1278_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp246.jpg"
         },
         {
             "id": "43420c18d49a47f49bf65876c8f4aab3",
@@ -2828,7 +2961,8 @@
                 {
                     "spanish": "/hymn/hs/246"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp247.jpg"
         },
         {
             "id": "bc532a8b50534fefbff2533ce183f5a1",
@@ -2853,7 +2987,8 @@
                 {
                     "spanish": "/hymn/hs/144"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp248.jpg"
         },
         {
             "id": "309fb78c0a8846abbf6ceaae4e151b5e",
@@ -2878,7 +3013,8 @@
                 {
                     "spanish": "/hymn/hs/236"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp249.jpg"
         },
         {
             "id": "3dc50b540f824d4b87f87ea24fa86092",
@@ -2900,7 +3036,8 @@
                 {
                     "english": "/hymn/h/523"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp250.jpg"
         },
         {
             "id": "7ca20fb7af394a3d846d642c4a8f7f1b",
@@ -2922,7 +3059,8 @@
                 {
                     "english": "/hymn/h/1144"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp251.jpg"
         },
         {
             "id": "f3130b1e4bec4015b9648233fef35845",
@@ -2944,7 +3082,8 @@
                 {
                     "english": "/hymn/h/754"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp252.jpg"
         },
         {
             "id": "cc3f1790283b44259a40880392499308",
@@ -2966,7 +3105,8 @@
                 {
                     "english": "/hymn/h/754"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp253.jpg"
         },
         {
             "id": "2b532f38a84c4dc8955be62031e20269",
@@ -2991,7 +3131,8 @@
                 {
                     "spanish": "/hymn/hs/265"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp254.jpg"
         },
         {
             "id": "c93661a7d3864456a6cc4ba6ef9c9996",
@@ -3016,7 +3157,8 @@
                 {
                     "spanish": "/hymn/hs/282"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp255.jpg"
         },
         {
             "id": "9f9e25db2066400eb2b9d0cfa2c0c4f1",
@@ -3038,7 +3180,8 @@
                 {
                     "english": "/hymn/h/1176"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp256.jpg"
         },
         {
             "id": "fac5089188cd40cd80b941929868066c",
@@ -3056,7 +3199,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0378_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0378_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp257.jpg"
         },
         {
             "id": "ec6c48facff844759b64b5c25cec92ec",
@@ -3074,7 +3218,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/LongBeach/mp3/lb23.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/LongBeach/ogg/lb23.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp258.jpg"
         },
         {
             "id": "327d218fa47d46958dde35a0427678cd",
@@ -3102,7 +3247,8 @@
                 {
                     "spanish": "/hymn/hs/277"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp301.jpg"
         },
         {
             "id": "88b4aed8ff8a41678dc928c36fffe3cb",
@@ -3127,7 +3273,8 @@
                 {
                     "french": "/hymn/hf/15"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp302.jpg"
         },
         {
             "id": "501ddca790b640fc925cded517e7afb4",
@@ -3145,7 +3292,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp303.jpg"
         },
         {
             "id": "7a4ea07f0f6e431da6bcfbb1d5c1a0ed",
@@ -3167,7 +3315,8 @@
                 {
                     "english": "/hymn/h/6304"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp304.jpg"
         },
         {
             "id": "285244e498bf455984aca65d70e02f6f",
@@ -3195,7 +3344,8 @@
                 {
                     "spanish": "/hymn/hs/278"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp305.jpg"
         },
         {
             "id": "59750f764f5f4eab8acbfdef1fd7f325",
@@ -3213,7 +3363,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp306.jpg"
         },
         {
             "id": "8dcb2ca6037f4633b76f25518cd33966",
@@ -3238,7 +3389,8 @@
                 {
                     "spanish": "/hymn/hs/40"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp307.jpg"
         },
         {
             "id": "46198ffac17845758addebba6ee4f726",
@@ -3256,7 +3408,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0175.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0175.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp308.jpg"
         },
         {
             "id": "91594a0e5f1d44b99f47140f024e5438",
@@ -3274,7 +3427,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp309.jpg"
         },
         {
             "id": "b8ad8c725c974ac294590fc3139a2d78",
@@ -3299,7 +3453,8 @@
                 {
                     "spanish": "/hymn/hs/494"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp310.jpg"
         },
         {
             "id": "864d96479bf24a7ba22146123060f8ae",
@@ -3321,7 +3476,8 @@
                 {
                     "english": "/hymn/h/6311"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp311.jpg"
         },
         {
             "id": "7c2094e1a59c4088975e6d89aee19ebb",
@@ -3339,7 +3495,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp312.jpg"
         },
         {
             "id": "2696d5507d3a4db2b2d78132ea0d898b",
@@ -3357,7 +3514,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp313.jpg"
         },
         {
             "id": "00d1fb4549ac4a8bbc5a725d01f34184",
@@ -3375,7 +3533,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp314.jpg"
         },
         {
             "id": "f7e0a4945d6343a1bd49e65b69af06ac",
@@ -3393,7 +3552,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0230.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0230.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp315.jpg"
         },
         {
             "id": "c879fde919b248859f269328d97e2321",
@@ -3411,7 +3571,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0118.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0118.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp316.jpg"
         },
         {
             "id": "b0cc800006804287a40040a8d3a568f6",
@@ -3429,7 +3590,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp317.jpg"
         },
         {
             "id": "98af9f5b0b38438f97c027812396cfd8",
@@ -3447,7 +3609,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0305.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0305.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp318.jpg"
         },
         {
             "id": "57a8bee036dd40778e89521ef63b74fd",
@@ -3465,7 +3628,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp319.jpg"
         },
         {
             "id": "ef33e03dea484a31ba55cfe425a0b1c6",
@@ -3483,7 +3647,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0677.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0677.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp320.jpg"
         },
         {
             "id": "d33804efb9a84eb7b06e95d893005938",
@@ -3501,7 +3666,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp321.jpg"
         },
         {
             "id": "078f7807361841848fbbf41ec38ad0f4",
@@ -3519,7 +3685,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp322.jpg"
         },
         {
             "id": "5a837b47d4544fd6abb050b359be3e5d",
@@ -3537,7 +3704,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0330.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0330.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp323.jpg"
         },
         {
             "id": "767f3c5d05644082a7bb9a2118a863d7",
@@ -3555,7 +3723,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp324.jpg"
         },
         {
             "id": "88b0a33a2a1d4b38a302c4f920f7a23e",
@@ -3573,7 +3742,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0238.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0238.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp325.jpg"
         },
         {
             "id": "adccd87ed7d140e49473756857085b45",
@@ -3591,7 +3761,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp326.jpg"
         },
         {
             "id": "5a656adb58c84da9927ce2e138370ad5",
@@ -3609,7 +3780,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0025.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0025.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp327.jpg"
         },
         {
             "id": "2e08a3df209248c18ddfc559b8aba820",
@@ -3627,7 +3799,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/LongBeach/mp3/lb82.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/LongBeach/ogg/lb82.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp328.jpg"
         },
         {
             "id": "60ca867119314dcf92aa4cc37c41b49f",
@@ -3645,7 +3818,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0027.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0027.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp329.jpg"
         },
         {
             "id": "b5d2f0c813064936bef7a42f19f8ece2",
@@ -3663,7 +3837,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/LongBeach/mp3/lb01.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/LongBeach/ogg/lb01.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp330.jpg"
         },
         {
             "id": "b4959b9d20f24a5b8ef1e143d364aa10",
@@ -3691,7 +3866,8 @@
                 {
                     "spanish": "/hymn/hs/184"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp331.jpg"
         },
         {
             "id": "4fd3fce746314489b7cf7d36d3a4571a",
@@ -3709,7 +3885,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/LongBeach/mp3/lb14.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/LongBeach/ogg/lb14.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp332.jpg"
         },
         {
             "id": "237d9e84f04745f28423965b924a9dce",
@@ -3737,7 +3914,8 @@
                 {
                     "spanish": "/hymn/hs/255"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp333.jpg"
         },
         {
             "id": "a1fb366ccca040408bee178a98809f3b",
@@ -3755,7 +3933,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp334.jpg"
         },
         {
             "id": "3afb7077f8fe4b589750dfb1e7c4fb79",
@@ -3777,7 +3956,8 @@
                 {
                     "english": "/hymn/h/547"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp335.jpg"
         },
         {
             "id": "3b58b0f389d64c92b41212b537604aba",
@@ -3795,7 +3975,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/LongBeach/mp3/lb51.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/LongBeach/ogg/lb51.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp336.jpg"
         },
         {
             "id": "7c2e7d1633d94009bce5ad78fe1843c0",
@@ -3813,7 +3994,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0309.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0309.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp337.jpg"
         },
         {
             "id": "b84cb02510534891a86c87edda5108e3",
@@ -3831,7 +4013,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0211.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0211.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp338.jpg"
         },
         {
             "id": "271a35d64f584217870bc18f6ef09270",
@@ -3849,7 +4032,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/LongBeach/mp3/lb52.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/LongBeach/ogg/lb52.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp339.jpg"
         },
         {
             "id": "b3639cc6660d40ce8e8365be36e697df",
@@ -3867,7 +4051,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/LongBeach/mp3/lb65.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/LongBeach/ogg/lb65.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp340.jpg"
         },
         {
             "id": "e243b6d6c8f140dea93eee6362e5ab88",
@@ -3885,7 +4070,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/LongBeach/mp3/lb76.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/LongBeach/ogg/lb76.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp341.jpg"
         },
         {
             "id": "32a046e35dd142309a29a3c4fc396965",
@@ -3903,7 +4089,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp342.jpg"
         },
         {
             "id": "8fc17f640abf4ec09ad03572a01a1989",
@@ -3921,7 +4108,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0290.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0290.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp343.jpg"
         },
         {
             "id": "6d96b28235544d4b86bc9a654dc778cc",
@@ -3939,7 +4127,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0359.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0359.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp344.jpg"
         },
         {
             "id": "132ec91f216640d4be2f1ae0073dc217",
@@ -3957,7 +4146,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0351.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0351.ogg",
             "singMedia": "https://www.hymnal.net/Hymns/ChineseTS/mp3/ts_0345_vocal.mp3",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp345.jpg"
         },
         {
             "id": "2af9415519b741c98d51207d4558f101",
@@ -3975,7 +4165,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp346.jpg"
         },
         {
             "id": "56f2c2f1d0f54200820d7f12ce615bc7",
@@ -3993,7 +4184,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0650_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0650_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp347.jpg"
         },
         {
             "id": "3d4a5e7c6b2241ceb0b1554fc0bddc8b",
@@ -4011,7 +4203,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp348.jpg"
         },
         {
             "id": "7ae826f20be8463bab27c05b156f3f6d",
@@ -4029,7 +4222,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0007_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0007_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp349.jpg"
         },
         {
             "id": "61f556c51a8044ee8be3dc26db37039f",
@@ -4047,7 +4241,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e6704_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e6704_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp401.jpg"
         },
         {
             "id": "64ceb5edd1ed41709d7d82e0ee0c0aac",
@@ -4065,7 +4260,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp402.jpg"
         },
         {
             "id": "d85a4b26e7ec4d1895a704b89e60d4d3",
@@ -4083,7 +4279,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0200.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0200.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp403.jpg"
         },
         {
             "id": "e29ee0610d154040b4c499f65b2e687e",
@@ -4101,7 +4298,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0215_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0215_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp404.jpg"
         },
         {
             "id": "efc949b3733048ccbed152feeccaa3cb",
@@ -4126,7 +4324,8 @@
                 {
                     "spanish": "/hymn/hs/499"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp405.jpg"
         },
         {
             "id": "4700292d190b448e8ac8347f2c7a09e6",
@@ -4148,7 +4347,8 @@
                 {
                     "english": "/hymn/h/1240"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp406.jpg"
         },
         {
             "id": "e51f7733956649169dcba3129c8cc299",
@@ -4166,7 +4366,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp407.jpg"
         },
         {
             "id": "f7fa0eecc1bd453385e5a2a9824b9542",
@@ -4191,7 +4392,8 @@
                 {
                     "spanish": "/hymn/hs/317"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp408.jpg"
         },
         {
             "id": "a8ec9f8215d745fb86bfbb45cd802c04",
@@ -4209,7 +4411,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0217.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0217.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp409.jpg"
         },
         {
             "id": "09630256a4a5453cae1decd4b36b7c64",
@@ -4234,7 +4437,8 @@
                 {
                     "spanish": "/hymn/hs/222"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp410.jpg"
         },
         {
             "id": "19a43d86a6c94a8f89ffd69ee1ba6021",
@@ -4252,7 +4456,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp411.jpg"
         },
         {
             "id": "da0fc2f88ce84118aa6ad069c79e064f",
@@ -4270,7 +4475,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp412.jpg"
         },
         {
             "id": "24254a5669f344f5bff6e85c6e3a1495",
@@ -4288,7 +4494,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1021_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1021_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp413.jpg"
         },
         {
             "id": "30991e514360480ea5e40c6032ff9ad2",
@@ -4310,7 +4517,8 @@
                 {
                     "english": "/hymn/h/1218"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp414.jpg"
         },
         {
             "id": "cebb570e10f34a709ebc69e022181009",
@@ -4328,7 +4536,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp415.jpg"
         },
         {
             "id": "fd985abf429047eb936a28acf8c7e2c8",
@@ -4350,7 +4559,8 @@
                 {
                     "english": "/hymn/h/1209"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp416.jpg"
         },
         {
             "id": "d680681fabd049ba9b1a32baf2cab2fa",
@@ -4368,7 +4578,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0341_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0341_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp417.jpg"
         },
         {
             "id": "c1262b8746764aa29b94e6209d08ed0a",
@@ -4386,7 +4597,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Children/mp3/c0141.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Children/ogg/c0141.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp418.jpg"
         },
         {
             "id": "5daa091b27f74ec2b362a71b5ff66049",
@@ -4404,7 +4616,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp419.jpg"
         },
         {
             "id": "8eb09097bb334a50b3278edd3e2e94d8",
@@ -4422,7 +4635,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp420.jpg"
         },
         {
             "id": "cbb8801e6ce54ab78a7c5af3464f480e",
@@ -4440,7 +4654,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp421.jpg"
         },
         {
             "id": "9f0c77feaf8a4fb1a82c1dd158a6fa66",
@@ -4458,7 +4673,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp422.jpg"
         },
         {
             "id": "5424ea580e60461593b7f40ec4ecb6b6",
@@ -4483,7 +4699,8 @@
                 {
                     "spanish": "/hymn/hs/301"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp423.jpg"
         },
         {
             "id": "b4c624ef65e4484a877853d4012e0905",
@@ -4508,7 +4725,8 @@
                 {
                     "spanish": "/hymn/hs/302"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp424.jpg"
         },
         {
             "id": "3c427aebb1984192b6c28a0fdfde538f",
@@ -4526,7 +4744,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp425.jpg"
         },
         {
             "id": "0ef938e1e4854feebc11a5f1619f8bf8",
@@ -4544,7 +4763,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp426.jpg"
         },
         {
             "id": "9e0aceca9f3e404abbf61b009bb88965",
@@ -4562,7 +4782,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0028.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0028.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp427.jpg"
         },
         {
             "id": "d94a012d3f6345e5b90dc06a4a4cf387",
@@ -4580,7 +4801,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0019.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0019.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp428.jpg"
         },
         {
             "id": "03b138d21ca44cbabeffbb1ed95636cc",
@@ -4602,7 +4824,8 @@
                 {
                     "english": "/hymn/h/6429"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp429.jpg"
         },
         {
             "id": "517c206e15444d01937cb86314bf614c",
@@ -4624,7 +4847,8 @@
                 {
                     "english": "/hymn/h/434"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp430.jpg"
         },
         {
             "id": "029e0f9ab4474e87a43cd8f9960f618a",
@@ -4649,7 +4873,8 @@
                 {
                     "spanish": "/hymn/hs/238"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp431.jpg"
         },
         {
             "id": "30eca7d77cb9493392adf999a8a60e68",
@@ -4674,7 +4899,8 @@
                 {
                     "spanish": "/hymn/hs/264"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp432.jpg"
         },
         {
             "id": "f8ff6fb8d53d40b38c99216b04132fd5",
@@ -4699,7 +4925,8 @@
                 {
                     "spanish": "/hymn/hs/174"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp433.jpg"
         },
         {
             "id": "55c0c67251a14f1eae2aabdef51f0f91",
@@ -4724,7 +4951,8 @@
                 {
                     "spanish": "/hymn/hs/273"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp434.jpg"
         },
         {
             "id": "e57b30a83172438d9876f2acd8c115c3",
@@ -4746,7 +4974,8 @@
                 {
                     "english": "/hymn/h/621"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp435.jpg"
         },
         {
             "id": "4617b883aab047b7b43b2835036b2040",
@@ -4768,7 +4997,8 @@
                 {
                     "english": "/hymn/h/641"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp436.jpg"
         },
         {
             "id": "72450f2073394a06862d18a80ed1abb8",
@@ -4790,7 +5020,8 @@
                 {
                     "english": "/hymn/h/804"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp437.jpg"
         },
         {
             "id": "b3b1529c7436478b8a75a9cd3f6b92e2",
@@ -4815,7 +5046,8 @@
                 {
                     "french": "/hymn/hf/71"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp438.jpg"
         },
         {
             "id": "10686981648d4df9afaa5494856255ab",
@@ -4840,7 +5072,8 @@
                 {
                     "spanish": "/hymn/hs/183"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp439.jpg"
         },
         {
             "id": "16b36341fa72409fb17340cfbfc82ec4",
@@ -4862,7 +5095,8 @@
                 {
                     "english": "/hymn/h/1135"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp440.jpg"
         },
         {
             "id": "afc41d23b997414e8a522eaab8ca8b3c",
@@ -4884,7 +5118,8 @@
                 {
                     "english": "/hymn/h/1136"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp441.jpg"
         },
         {
             "id": "772f3980cf61407bbb279e58cd4b701b",
@@ -4906,7 +5141,8 @@
                 {
                     "english": "/hymn/h/1161"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp442.jpg"
         },
         {
             "id": "13d6d016d7d940de96e111ac09947f9c",
@@ -4931,7 +5167,8 @@
                 {
                     "spanish": "/hymn/hs/266"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp443.jpg"
         },
         {
             "id": "a75d6e0ad22c4465ba124afef5a4985d",
@@ -4953,7 +5190,8 @@
                 {
                     "english": "/hymn/h/1197"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp444.jpg"
         },
         {
             "id": "a09d09792ee54a7096fb2bf2465db1b8",
@@ -4975,7 +5213,8 @@
                 {
                     "english": "/hymn/h/1188"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp445.jpg"
         },
         {
             "id": "f8574988ad7c4fec8e70d18c50aab853",
@@ -5003,7 +5242,8 @@
                 {
                     "spanish": "/hymn/hs/182"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp446.jpg"
         },
         {
             "id": "70619fc6e09e4d9ea7c4f469cfc9cdac",
@@ -5025,7 +5265,8 @@
                 {
                     "english": "/hymn/h/1189"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp447.jpg"
         },
         {
             "id": "5fb74d03539b4c5d834f916978f4f61d",
@@ -5047,7 +5288,8 @@
                 {
                     "english": "/hymn/h/1199"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp448.jpg"
         },
         {
             "id": "c9b8922c5b904af287e622f7dbca1134",
@@ -5069,7 +5311,8 @@
                 {
                     "english": "/hymn/h/1203"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp449.jpg"
         },
         {
             "id": "9d35aca83d014d53a29ebfc07e918c30",
@@ -5091,7 +5334,8 @@
                 {
                     "english": "/hymn/h/1210"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp450.jpg"
         },
         {
             "id": "3c7a7d719d224b13a42ad865744b8b34",
@@ -5113,7 +5357,8 @@
                 {
                     "english": "/hymn/h/1211"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp451.jpg"
         },
         {
             "id": "25db6a21e3c14dbe98455f196e33b6eb",
@@ -5135,7 +5380,8 @@
                 {
                     "english": "/hymn/h/1285"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp452.jpg"
         },
         {
             "id": "5ded16157b584b629863b7432ea33536",
@@ -5160,7 +5406,8 @@
                 {
                     "french": "/hymn/hf/143"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp453.jpg"
         },
         {
             "id": "af2208b528c2453690e22bc760c7a061",
@@ -5182,7 +5429,8 @@
                 {
                     "english": "/hymn/h/6454"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp454.jpg"
         },
         {
             "id": "50c247c05b80492583a13873e389d04b",
@@ -5200,7 +5448,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0362.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0362.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp455.jpg"
         },
         {
             "id": "15b8bc32665e4afb915bb31a62627e5e",
@@ -5218,7 +5467,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp456.jpg"
         },
         {
             "id": "0ef75232dccd4c9bb71d35ea2a84f2f1",
@@ -5236,7 +5486,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp457.jpg"
         },
         {
             "id": "6467fa3404aa46a291fe6af163ae15cf",
@@ -5254,7 +5505,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0532_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0532_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp458.jpg"
         },
         {
             "id": "0239652a6f6242b88cd9119f499800b9",
@@ -5276,7 +5528,8 @@
                 {
                     "english": "/hymn/h/6459"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp459.jpg"
         },
         {
             "id": "2a9fe860a967432b93e3106ef37f82a6",
@@ -5294,7 +5547,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0389_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0389_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp460.jpg"
         },
         {
             "id": "f2f63a2cf9f14b49b91a3b89c8c09c41",
@@ -5312,7 +5566,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/ChineseTS/mp3/ts0461_full.mp3",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp461.jpg"
         },
         {
             "id": "b38bfca948094a5ea245712fab573838",
@@ -5330,7 +5585,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0039_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0039_i.ogg",
             "singMedia": "https://www.hymnal.net/Hymns/ChineseTS/mp3/ts_0462_vocal.mp3",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp462.jpg"
         },
         {
             "id": "0958b2994d1e4248afa352111cadc7ba",
@@ -5348,7 +5604,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp463.jpg"
         },
         {
             "id": "d81f029e2ec240ea98f39623e7ef9049",
@@ -5366,7 +5623,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/ChineseTS/mp3/ts0464_full.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/ChineseTS/ogg/ts0464_full.ogg",
             "singMedia": "https://www.hymnal.net/Hymns/ChineseTS/mp3/ts_0464_vocal.mp3",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp464.jpg"
         },
         {
             "id": "6e8961cf772945f78e28ace669e4bb4c",
@@ -5388,7 +5646,8 @@
                 {
                     "english": "/hymn/h/6465"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp465.jpg"
         },
         {
             "id": "782a520605324d24adfab0d38bceaa6f",
@@ -5410,7 +5669,8 @@
                 {
                     "english": "/hymn/h/6466"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp466.jpg"
         },
         {
             "id": "52649c861b984523af966dd8bff45f6d",
@@ -5432,7 +5692,8 @@
                 {
                     "english": "/hymn/h/6467"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp467.jpg"
         },
         {
             "id": "86167bcddbff4c24b3b4a006b3ca6ec5",
@@ -5450,7 +5711,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0019.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0019.ogg",
             "singMedia": "https://www.hymnal.net/Hymns/ChineseTS/mp3/ts_0468_vocal.mp3",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp468.jpg"
         },
         {
             "id": "922e890fd0db43debfbbe18b0381e692",
@@ -5472,7 +5734,8 @@
                 {
                     "english": "/hymn/h/1241"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp469.jpg"
         },
         {
             "id": "64e5418e390e436eb81b01122b531c65",
@@ -5494,7 +5757,8 @@
                 {
                     "english": "/hymn/h/817"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp470.jpg"
         },
         {
             "id": "ca55f36517bb4707ad7d6e2cc9b1430a",
@@ -5519,7 +5783,8 @@
                 {
                     "spanish": "/hymn/hs/372"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp501.jpg"
         },
         {
             "id": "53587aa33c2e4da0a599f517cf789784",
@@ -5544,7 +5809,8 @@
                 {
                     "spanish": "/hymn/hs/496"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp502.jpg"
         },
         {
             "id": "c01fc617b8024405885a8ed0e181502e",
@@ -5569,7 +5835,8 @@
                 {
                     "spanish": "/hymn/hs/383"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp503.jpg"
         },
         {
             "id": "626319d029ec4a6eaaab40129f6a8be8",
@@ -5591,7 +5858,8 @@
                 {
                     "english": "/hymn/h/1338"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp504.jpg"
         },
         {
             "id": "ef5903592fa049ae88c1589e218dac16",
@@ -5616,7 +5884,8 @@
                 {
                     "spanish": "/hymn/hs/498"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp505.jpg"
         },
         {
             "id": "9b3b1ffc915f478ebe8d8649b8f18996",
@@ -5641,7 +5910,8 @@
                 {
                     "spanish": "/hymn/hs/371"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp506.jpg"
         },
         {
             "id": "8023a8a25eb94be99b8b09db93af9788",
@@ -5669,7 +5939,8 @@
                 {
                     "spanish": "/hymn/hs/382"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp507.jpg"
         },
         {
             "id": "6b633ff27b494e24b0d63349b55d9069",
@@ -5697,7 +5968,8 @@
                 {
                     "spanish": "/hymn/hs/373"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp508.jpg"
         },
         {
             "id": "bbe65f562f87435bad94f399ab2e1e27",
@@ -5715,7 +5987,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0895_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0895_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp509.jpg"
         },
         {
             "id": "8e48759095604fe09ab17f7f95152463",
@@ -5733,7 +6006,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0020_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0020_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp510.jpg"
         },
         {
             "id": "dc38e7477231406681b2d9f47995ca5a",
@@ -5755,7 +6029,8 @@
                 {
                     "english": "/hymn/h/1259"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp511.jpg"
         },
         {
             "id": "121fc771d0c44e44a112a9f99e59f04d",
@@ -5777,7 +6052,8 @@
                 {
                     "english": "/hymn/h/1274"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp512.jpg"
         },
         {
             "id": "c23dbe3a6ad4456b903e254ee4260d99",
@@ -5799,7 +6075,8 @@
                 {
                     "english": "/hymn/h/1348"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp513.jpg"
         },
         {
             "id": "3485bcee361b469da4f5af0c1d5dfe90",
@@ -5821,7 +6098,8 @@
                 {
                     "english": "/hymn/h/1257"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp514.jpg"
         },
         {
             "id": "494fe2d6d3d14145989a041f689d7fca",
@@ -5846,7 +6124,8 @@
                 {
                     "spanish": "/hymn/hs/62"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp515.jpg"
         },
         {
             "id": "0ac3776bff0a4b08be20d9c99c488947",
@@ -5874,7 +6153,8 @@
                 {
                     "spanish": "/hymn/hs/386"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp516.jpg"
         },
         {
             "id": "2fa7aa036026494998d56a12a2ce9d8e",
@@ -5892,7 +6172,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0242.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0242.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp517.jpg"
         },
         {
             "id": "c57c4cdfab54453fbd5da1398a677885",
@@ -5910,7 +6191,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp518.jpg"
         },
         {
             "id": "a05b3f26b266498dad0052c45068226f",
@@ -5928,7 +6210,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1257_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1257_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp519.jpg"
         },
         {
             "id": "6efb2eb08dba4e01ac9a198f360d19fb",
@@ -5946,7 +6229,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0438_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0438_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp520.jpg"
         },
         {
             "id": "911f4912e22e46beae7c845051ea99a6",
@@ -5964,7 +6248,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp521.jpg"
         },
         {
             "id": "4ba52823b1b34a03bd29309755a1e650",
@@ -5982,7 +6267,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp522.jpg"
         },
         {
             "id": "56761c11f15a4877b4ceedbccbdf23b4",
@@ -6007,7 +6293,8 @@
                 {
                     "spanish": "/hymn/hs/162"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp523.jpg"
         },
         {
             "id": "933e324e3ba94d16a0381aeb03c7c9c9",
@@ -6025,7 +6312,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp524.jpg"
         },
         {
             "id": "90740a5dbc324993beb09d28dae0706b",
@@ -6053,7 +6341,8 @@
                 {
                     "spanish": "/hymn/hs/385"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp525.jpg"
         },
         {
             "id": "a202e53002b5428a995183dba6e1d201",
@@ -6071,7 +6360,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp526.jpg"
         },
         {
             "id": "221aab3d3ab94bc4ae5750e2fd59194e",
@@ -6089,7 +6379,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp527.jpg"
         },
         {
             "id": "91b70a9f5228400db06cfa2387e55ddd",
@@ -6107,7 +6398,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp528.jpg"
         },
         {
             "id": "fdd0945b463c4bdd8a22f6c8bd9cc4ed",
@@ -6129,7 +6421,8 @@
                 {
                     "english": "/hymn/h/1264"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp529.jpg"
         },
         {
             "id": "3a31cccfd4454f3c8b155189cf31f82d",
@@ -6151,7 +6444,8 @@
                 {
                     "english": "/hymn/h/1266"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp530.jpg"
         },
         {
             "id": "3d50d79df9f341e18cc251ace95fdc11",
@@ -6169,7 +6463,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp531.jpg"
         },
         {
             "id": "3b708ff44a9b4c40ad39d2c6664d90d3",
@@ -6187,7 +6482,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1119_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1119_i.ogg",
             "singMedia": "https://www.hymnal.net/Hymns/ChineseTS/mp3/ts_0532_vocal.mp3",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp532.jpg"
         },
         {
             "id": "e4017f49405e4e578dd93f73a8a5362b",
@@ -6205,7 +6501,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp533.jpg"
         },
         {
             "id": "4856a93d579e468ca45957475f944e04",
@@ -6230,7 +6527,8 @@
                 {
                     "spanish": "/hymn/hs/352"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp534.jpg"
         },
         {
             "id": "d836afac0a9e4a05871a5118fa8a8d2e",
@@ -6255,7 +6553,8 @@
                 {
                     "spanish": "/hymn/hs/374"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp535.jpg"
         },
         {
             "id": "c465638cd86c49249ac1c11a7d90baef",
@@ -6277,7 +6576,8 @@
                 {
                     "english": "/hymn/h/1258"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp536.jpg"
         },
         {
             "id": "d25ea7f4cfad4dc8a68ad81bf2052a72",
@@ -6299,7 +6599,8 @@
                 {
                     "english": "/hymn/h/1268"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp537.jpg"
         },
         {
             "id": "f7b9f2b1b6d94b918ba7d367b9c49b19",
@@ -6321,7 +6622,8 @@
                 {
                     "english": "/hymn/h/1277"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp538.jpg"
         },
         {
             "id": "005ee427bfda4e81956dc623136bf93c",
@@ -6346,7 +6648,8 @@
                 {
                     "spanish": "/hymn/hs/389"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp539.jpg"
         },
         {
             "id": "e539b33823e44a0b8339558a47712eef",
@@ -6364,7 +6667,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0321.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0321.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp540.jpg"
         },
         {
             "id": "f1083e7413614d64871e4f79fc6f524f",
@@ -6386,7 +6690,8 @@
                 {
                     "english": "/hymn/h/1296"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp541.jpg"
         },
         {
             "id": "66d620ff3511463d95459410338ef6a0",
@@ -6404,7 +6709,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp542.jpg"
         },
         {
             "id": "10dd1329c7cb4aa8b96af515b6ae0bb7",
@@ -6422,7 +6728,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp543.jpg"
         },
         {
             "id": "ef7c390c5dbd4133b0391f8e4775f9b7",
@@ -6440,7 +6747,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp601.jpg"
         },
         {
             "id": "3df076470fb04f558b017cba20cdbd1b",
@@ -6458,7 +6766,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewTunes/mp3/e0383_new.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewTunes/ogg/e0383_new.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp602.jpg"
         },
         {
             "id": "17b8ce117b52499cad344314ec4bd65f",
@@ -6486,7 +6795,8 @@
                 {
                     "spanish": "/hymn/hs/381"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp603.jpg"
         },
         {
             "id": "41cbbb5f3f9949fb878ecad575a09f3d",
@@ -6504,7 +6814,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp604.jpg"
         },
         {
             "id": "60b4d783a5b842c68360d7944c30c484",
@@ -6522,7 +6833,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1043_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1043_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp605.jpg"
         },
         {
             "id": "9b9b2c43aca64c0b882a022d3c16e0cb",
@@ -6547,7 +6859,8 @@
                 {
                     "spanish": "/hymn/hs/384"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp606.jpg"
         },
         {
             "id": "226c2214a65446a480f0d50da89932dd",
@@ -6565,7 +6878,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1015_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1015_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp607.jpg"
         },
         {
             "id": "49435a3e53b245159bd880336fbe5a78",
@@ -6583,7 +6897,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0325_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0325_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp608.jpg"
         },
         {
             "id": "47d4e49042f44b55b3a201b2af745d44",
@@ -6601,7 +6916,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp609.jpg"
         },
         {
             "id": "30c521e10b6a429abcbc70371970b0ed",
@@ -6619,7 +6935,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp610.jpg"
         },
         {
             "id": "7a1f492bfc564f7f8f474fbf791c8df5",
@@ -6647,7 +6964,8 @@
                 {
                     "spanish": "/hymn/hs/105"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp611.jpg"
         },
         {
             "id": "ebc3bc0dd3784ce393bd5ff5317ee9b5",
@@ -6665,7 +6983,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp612.jpg"
         },
         {
             "id": "d00d375f398d4097866fd5312d3ed131",
@@ -6683,7 +7002,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1243_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1243_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp613.jpg"
         },
         {
             "id": "b8e5a5f1d117476c8dc882066ad376f6",
@@ -6701,7 +7021,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0386.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0386.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp614.jpg"
         },
         {
             "id": "1f1fe4923dff43c08a7d8d1c7174100f",
@@ -6719,7 +7040,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0079.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0079.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp615.jpg"
         },
         {
             "id": "e8e90ac8b407445a963a95610650698e",
@@ -6744,7 +7066,8 @@
                 {
                     "spanish": "/hymn/hs/376"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp616.jpg"
         },
         {
             "id": "89371f6e06454daa876eaa380517875d",
@@ -6769,7 +7092,8 @@
                 {
                     "spanish": "/hymn/hs/104"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp617.jpg"
         },
         {
             "id": "ce73da2db70048289bfc3622331d35a3",
@@ -6787,7 +7111,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp618.jpg"
         },
         {
             "id": "a889b34b439d47aa988ac610b723843a",
@@ -6809,7 +7134,8 @@
                 {
                     "english": "/hymn/h/258"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp619.jpg"
         },
         {
             "id": "dae981702a10473fb4ec76973a90ad46",
@@ -6834,7 +7160,8 @@
                 {
                     "spanish": "/hymn/hs/32"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp620.jpg"
         },
         {
             "id": "4a215e72f0cd436589f2f50c458b0d5c",
@@ -6859,7 +7186,8 @@
                 {
                     "spanish": "/hymn/hs/106"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp621.jpg"
         },
         {
             "id": "f678109aa6674c259df1ce76664f6789",
@@ -6881,7 +7209,8 @@
                 {
                     "english": "/hymn/h/1105"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp622.jpg"
         },
         {
             "id": "02f117b73102442289dfefb02ade35f4",
@@ -6909,7 +7238,8 @@
                 {
                     "spanish": "/hymn/hs/108"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp623.jpg"
         },
         {
             "id": "4f40bbb578a44c2eadd73aa5998b9513",
@@ -6934,7 +7264,8 @@
                 {
                     "french": "/hymn/hf/153"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp624.jpg"
         },
         {
             "id": "d1af2f09619b44bcb38c308d4283a51d",
@@ -6956,7 +7287,8 @@
                 {
                     "english": "/hymn/h/1230"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp625.jpg"
         },
         {
             "id": "0252b9cf5208409d89a19b00880a17a4",
@@ -6981,7 +7313,8 @@
                 {
                     "spanish": "/hymn/hs/355"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp626.jpg"
         },
         {
             "id": "8e02cd915bd84768b1deff43cf31acc6",
@@ -7003,7 +7336,8 @@
                 {
                     "english": "/hymn/h/1244"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp627.jpg"
         },
         {
             "id": "7ec2067fbfa549f98dc84b8906aef793",
@@ -7028,7 +7362,8 @@
                 {
                     "spanish": "/hymn/hs/497"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp628.jpg"
         },
         {
             "id": "993ac573a4b84f749b4b224ac20cd5a6",
@@ -7046,7 +7381,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0367.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0367.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp629.jpg"
         },
         {
             "id": "4949d753ac5c4bc89e0dba45a39ab471",
@@ -7071,7 +7407,8 @@
                 {
                     "spanish": "/hymn/hs/378"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp701.jpg"
         },
         {
             "id": "eda997f8ab0c4a4ba1470721cbec6a3a",
@@ -7089,7 +7426,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp702.jpg"
         },
         {
             "id": "00dfd101f9514a57b861b499c6f5bb6f",
@@ -7107,7 +7445,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp703.jpg"
         },
         {
             "id": "6a7f3b7d97924683b6a3ec505e42d2b8",
@@ -7129,7 +7468,8 @@
                 {
                     "english": "/hymn/h/6704"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp704.jpg"
         },
         {
             "id": "6d66f9d5896c4435a12283c03539e51f",
@@ -7151,7 +7491,8 @@
                 {
                     "english": "/hymn/h/6705"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp705.jpg"
         },
         {
             "id": "82c7e55802a84da0a634fa702c6ecdc8",
@@ -7169,7 +7510,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp706.jpg"
         },
         {
             "id": "2a95555149404c2a82a5e48759c5fcd3",
@@ -7191,7 +7533,8 @@
                 {
                     "english": "/hymn/h/6707"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp707.jpg"
         },
         {
             "id": "d786f02c28f842a597ddac65ab0ecd5b",
@@ -7209,7 +7552,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Children/mp3/c0022.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Children/ogg/c0022.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp708.jpg"
         },
         {
             "id": "55b588c6ab0c4ef58747fe7aed7ddcd7",
@@ -7234,7 +7578,8 @@
                 {
                     "french": "/hymn/hf/156"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp709.jpg"
         },
         {
             "id": "8dc401c993eb42b287cadbfa7f04ab62",
@@ -7252,7 +7597,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0170.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0170.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp710.jpg"
         },
         {
             "id": "b1374fd10e6d4d7bb01de666cbcddfe1",
@@ -7277,7 +7623,8 @@
                 {
                     "spanish": "/hymn/hs/369"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp711.jpg"
         },
         {
             "id": "b851b65c26af4671bf2712f4d8e71adb",
@@ -7305,7 +7652,8 @@
                 {
                     "spanish": "/hymn/hs/379"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp712.jpg"
         },
         {
             "id": "34543d2529664d0a805b3fae1e81da2b",
@@ -7323,7 +7671,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/ChineseTS/mp3/ts0713.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/ChineseTS/ogg/ts0713.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp713.jpg"
         },
         {
             "id": "30a5f84837884311a6b2c31876c57c1a",
@@ -7341,7 +7690,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0192.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0192.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp714.jpg"
         },
         {
             "id": "8811565bc9174d8d86890c35681dd046",
@@ -7359,7 +7709,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0434.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0434.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp715.jpg"
         },
         {
             "id": "5cc08d196b2d427d85fa3ad3e157bcf3",
@@ -7381,7 +7732,8 @@
                 {
                     "english": "/hymn/h/1236"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp716.jpg"
         },
         {
             "id": "e6c7d4d3e18846e1839492d563b63d29",
@@ -7399,7 +7751,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp717.jpg"
         },
         {
             "id": "cb5a1c2e7492464bb389b7ee937b20b2",
@@ -7417,7 +7770,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp718.jpg"
         },
         {
             "id": "2d95da06ff0842aeb067ed5ad2a9200a",
@@ -7435,7 +7789,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp719.jpg"
         },
         {
             "id": "d90e794cade34517959c119a15fef220",
@@ -7463,7 +7818,8 @@
                 {
                     "spanish": "/hymn/hs/286"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp720.jpg"
         },
         {
             "id": "1476556b687c4b659f74277fc4696803",
@@ -7485,7 +7841,8 @@
                 {
                     "english": "/hymn/h/1278"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp721.jpg"
         },
         {
             "id": "07ef5615c8f146fc93580a17903b5d96",
@@ -7503,7 +7860,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0737.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0737.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp722.jpg"
         },
         {
             "id": "8caef18648f74bc8ad4f58fe6d867d74",
@@ -7521,7 +7879,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1194_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1194_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp723.jpg"
         },
         {
             "id": "d9ee377ed5134195b6b7d2e6375d3a85",
@@ -7539,7 +7898,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1079_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1079_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp724.jpg"
         },
         {
             "id": "a3d3e3625ec0423492d0367cc4833bbf",
@@ -7557,7 +7917,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp725.jpg"
         },
         {
             "id": "93c0e9d06d1f43c6816c762829e3b34d",
@@ -7575,7 +7936,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0142_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0142_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp726.jpg"
         },
         {
             "id": "9e77fdb4ff5d442eb9c31f19b1a92905",
@@ -7593,7 +7955,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp727.jpg"
         },
         {
             "id": "0749f91fbae4421fa9591afe0a5dd02f",
@@ -7611,7 +7974,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1015_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1015_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp728.jpg"
         },
         {
             "id": "ad75a8e16cc24b3a964f5df862ba148f",
@@ -7629,7 +7993,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp729.jpg"
         },
         {
             "id": "21dac856b8e549a9add2c924a52d2b19",
@@ -7647,7 +8012,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0804_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0804_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp730.jpg"
         },
         {
             "id": "7750df55fee84ae49c407277ec0ef029",
@@ -7665,7 +8031,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp731.jpg"
         },
         {
             "id": "d5b57e35049041cca2aec2c15ac0e17c",
@@ -7683,7 +8050,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp732.jpg"
         },
         {
             "id": "85aed36326894cb7a4b8e0340d36f8b4",
@@ -7701,7 +8069,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp733.jpg"
         },
         {
             "id": "a162c1da8f614a038f8ebd38ce858e83",
@@ -7719,7 +8088,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp734.jpg"
         },
         {
             "id": "38546fe8b69a46a28edfdde8590a9869",
@@ -7737,7 +8107,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1017_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1017_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp735.jpg"
         },
         {
             "id": "21f546137e35465399745b3ca0b90fcc",
@@ -7755,7 +8126,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp736.jpg"
         },
         {
             "id": "bbf63df301cc4a4cb7fa81fc8bb78109",
@@ -7773,7 +8145,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0851_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0851_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp737.jpg"
         },
         {
             "id": "e2940f189c5f4c78a209ee04b00adf19",
@@ -7791,7 +8164,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e8444_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e8444_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp738.jpg"
         },
         {
             "id": "c39a39ddff534db1876c207ee975e0b0",
@@ -7809,7 +8183,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp739.jpg"
         },
         {
             "id": "ea5b4519f29b4839b71afc281a390100",
@@ -7827,7 +8202,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0469_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0469_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp740.jpg"
         },
         {
             "id": "f5a573efd5be44b89dadffc92c1b882a",
@@ -7845,7 +8221,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0241.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0241.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp741.jpg"
         },
         {
             "id": "a2e65bcaef114c6380043ad0864fcf7f",
@@ -7863,7 +8240,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1278_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1278_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp742.jpg"
         },
         {
             "id": "58d44e667e2c4fef8c66bce6dfe2e8c3",
@@ -7881,7 +8259,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0644_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0644_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp743.jpg"
         },
         {
             "id": "e5560a7d4ed24f5083c93c8ddc9c02c7",
@@ -7899,7 +8278,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1256_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1256_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp744.jpg"
         },
         {
             "id": "b1e35153ec4740c2a88a76b89849a813",
@@ -7917,7 +8297,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0441_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0441_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp745.jpg"
         },
         {
             "id": "0d72dda804674330ae2cd54054f81701",
@@ -7939,7 +8320,8 @@
                 {
                     "english": "/hymn/h/6746"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp746.jpg"
         },
         {
             "id": "0d4477be577e48fda560b81a5ee2572a",
@@ -7957,7 +8339,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0585_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0585_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp747.jpg"
         },
         {
             "id": "a0a6c315ddac4160a948263fed8bcadc",
@@ -7975,7 +8358,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp748.jpg"
         },
         {
             "id": "5f044d858093432b9aafcd5a48fcecc6",
@@ -7993,7 +8377,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp749.jpg"
         },
         {
             "id": "f0e0e4e2f6fa4ca898278aae7c06de32",
@@ -8011,7 +8396,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e8174_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e8174_i.ogg",
             "singMedia": "https://www.hymnal.net/Hymns/ChineseTS/mp3/ts_0750_vocal.mp3",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp750.jpg"
         },
         {
             "id": "dcabf92bb262441ea896fc29f746fe70",
@@ -8033,7 +8419,8 @@
                 {
                     "english": "/hymn/h/6751"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp751.jpg"
         },
         {
             "id": "1e7b4e7fe80c49d9ab91eb536bfb7b74",
@@ -8051,7 +8438,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp752.jpg"
         },
         {
             "id": "61a428f6ae9e48c882b221ee04f86746",
@@ -8076,7 +8464,8 @@
                 {
                     "spanish": "/hymn/hs/366"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp753.jpg"
         },
         {
             "id": "b9df4000e3544abbaaecb223f8e910d6",
@@ -8098,7 +8487,8 @@
                 {
                     "english": "/hymn/h/1267"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp754.jpg"
         },
         {
             "id": "5dedf46eb8b24dd8818b0f4eca6f7bbe",
@@ -8120,7 +8510,8 @@
                 {
                     "english": "/hymn/h/1245"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp755.jpg"
         },
         {
             "id": "9f4862fe83884cda8568b1dceea786b7",
@@ -8145,7 +8536,8 @@
                 {
                     "spanish": "/hymn/hs/380"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp756.jpg"
         },
         {
             "id": "0a1013fd575b49198a1c2762d5c04acf",
@@ -8167,7 +8559,8 @@
                 {
                     "english": "/hymn/h/1247"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp757.jpg"
         },
         {
             "id": "f56b3226d47346a0b6afc883ba84fc89",
@@ -8189,7 +8582,8 @@
                 {
                     "english": "/hymn/h/1280"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp758.jpg"
         },
         {
             "id": "a1c1fe999163479cac135b29adba7a66",
@@ -8211,7 +8605,8 @@
                 {
                     "english": "/hymn/h/1281"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp759.jpg"
         },
         {
             "id": "bf886dd89f8e4a21b0cba11e36e5eed6",
@@ -8233,7 +8628,8 @@
                 {
                     "english": "/hymn/h/1291"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp760.jpg"
         },
         {
             "id": "ce5ae8bc127a4e23841da9163bd85cd8",
@@ -8251,7 +8647,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0223_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0223_i.ogg",
             "singMedia": "https://www.hymnal.net/Hymns/ChineseTS/mp3/ts_0761_vocal.mp3",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp761.jpg"
         },
         {
             "id": "f2e09a2d9e224486b089f70aac4a71ee",
@@ -8269,7 +8666,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp762.jpg"
         },
         {
             "id": "97590e8b11a14cc68fff53cdb36498ba",
@@ -8287,7 +8685,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0386.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0386.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp801.jpg"
         },
         {
             "id": "0e25144c5d9a44699e49ca2e4841fdfd",
@@ -8305,7 +8704,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0292_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0292_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp802.jpg"
         },
         {
             "id": "7a96396fe6db4522a86d610cfe551d6d",
@@ -8323,7 +8723,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp803.jpg"
         },
         {
             "id": "665ddfc67b50444ab7f12362b1a33802",
@@ -8341,7 +8742,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1167_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1167_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp804.jpg"
         },
         {
             "id": "e901a5f1a4524c7b8cac11324663e39f",
@@ -8359,7 +8761,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0036_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0036_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp805.jpg"
         },
         {
             "id": "a87baff205f449a392c5b73e86636893",
@@ -8381,7 +8784,8 @@
                 {
                     "english": "/hymn/h/1282"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp806.jpg"
         },
         {
             "id": "665cbaba39344507b87c11fdee5dd389",
@@ -8399,7 +8803,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp807.jpg"
         },
         {
             "id": "4ea341dc61044b8ea7eabd03e0a111a4",
@@ -8417,7 +8822,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1297_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1297_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp808.jpg"
         },
         {
             "id": "e6cfed497d0142e69c5c25d7463232ea",
@@ -8435,7 +8841,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp809.jpg"
         },
         {
             "id": "8d82eae36e8349848e1488bf3df3d9d9",
@@ -8457,7 +8864,8 @@
                 {
                     "english": "/hymn/h/1283"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp810.jpg"
         },
         {
             "id": "b484323493754a8385fc1aa89599b983",
@@ -8475,7 +8883,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0870_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0870_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp811.jpg"
         },
         {
             "id": "3a9decdd9203439a9253d939784c1c5a",
@@ -8500,7 +8909,8 @@
                 {
                     "french": "/hymn/hf/168"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp812.jpg"
         },
         {
             "id": "0ff77ab9291a444188315d0e4bbe6a9c",
@@ -8518,7 +8928,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp813.jpg"
         },
         {
             "id": "05353a0008764218a83b537f8866c925",
@@ -8536,7 +8947,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp814.jpg"
         },
         {
             "id": "990226555f614f4681a12bb9b1bc4099",
@@ -8564,7 +8976,8 @@
                 {
                     "spanish": "/hymn/hs/419"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp815.jpg"
         },
         {
             "id": "7c682cc3c1ef4818931b4954fce6d3db",
@@ -8582,7 +8995,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp816.jpg"
         },
         {
             "id": "ca01d8e5d2f54cbf80e5f20c9f5c8671",
@@ -8600,7 +9014,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp817.jpg"
         },
         {
             "id": "254831133ae847ccac7b628af8a9c7ba",
@@ -8622,7 +9037,8 @@
                 {
                     "english": "/hymn/h/1326"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp818.jpg"
         },
         {
             "id": "4d02c95333734f978956857e2a8d086c",
@@ -8644,7 +9060,8 @@
                 {
                     "english": "/hymn/h/6819"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp819.jpg"
         },
         {
             "id": "86cfc8b5aec14cb09cc6d5765bda8ba1",
@@ -8662,7 +9079,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp820.jpg"
         },
         {
             "id": "9f510c8c6923469986746c1750e8cdaf",
@@ -8680,7 +9098,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp821.jpg"
         },
         {
             "id": "0d99d2318bd242a38560c87019d38155",
@@ -8698,7 +9117,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp822.jpg"
         },
         {
             "id": "eb6900e265aa4aaea765605e735e98d3",
@@ -8716,7 +9136,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp823.jpg"
         },
         {
             "id": "e9b02ebed7364060855bdca9f6ff1e85",
@@ -8734,7 +9155,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp824.jpg"
         },
         {
             "id": "1fb0c509f0d440d48bf1c668f628a144",
@@ -8762,7 +9184,8 @@
                 {
                     "spanish": "/hymn/hs/492"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp825.jpg"
         },
         {
             "id": "bba803c9b4604370a5493badc8c5ce9c",
@@ -8780,7 +9203,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp826.jpg"
         },
         {
             "id": "af84d262ba3946a4837716cae5e319a6",
@@ -8798,7 +9222,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp827.jpg"
         },
         {
             "id": "55e4bf6bf38840fab522e215835b36e9",
@@ -8816,7 +9241,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0163.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0163.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp828.jpg"
         },
         {
             "id": "97f4149ffd4e4a1d8d64dc79116db02b",
@@ -8834,7 +9260,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp829.jpg"
         },
         {
             "id": "b76c4bf7a66d454689532f1aac35fdf9",
@@ -8852,7 +9279,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0770_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0770_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp830.jpg"
         },
         {
             "id": "32fdf29ce5cf402d87739fcf45012df6",
@@ -8870,7 +9298,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp831.jpg"
         },
         {
             "id": "2add43402f9545e7a12211394e1954c2",
@@ -8895,7 +9324,8 @@
                 {
                     "french": "/hymn/hf/63"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp832.jpg"
         },
         {
             "id": "c5aa1078a37148c2be6391e904ce840b",
@@ -8913,7 +9343,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp833.jpg"
         },
         {
             "id": "c3c9ebad7e2b4e55b5745d37a01cd565",
@@ -8938,7 +9369,8 @@
                 {
                     "french": "/hymn/hf/212"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp834.jpg"
         },
         {
             "id": "073f4e9da9a541019b058694edd1fc7e",
@@ -8966,7 +9398,8 @@
                 {
                     "spanish": "/hymn/hs/422"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp835.jpg"
         },
         {
             "id": "61131d6944e44a4a9c23eba512301e6d",
@@ -8984,7 +9417,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp836.jpg"
         },
         {
             "id": "b246511a83c94a08b7051ebc633717df",
@@ -9006,7 +9440,8 @@
                 {
                     "english": "/hymn/h/6837"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp837.jpg"
         },
         {
             "id": "213a7551780c49dc816b594b74e4d5a5",
@@ -9028,7 +9463,8 @@
                 {
                     "english": "/hymn/h/6838"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp838.jpg"
         },
         {
             "id": "71818064d6d44428af5e83b473092021",
@@ -9050,7 +9486,8 @@
                 {
                     "english": "/hymn/h/6839"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp839.jpg"
         },
         {
             "id": "3ad4f1825462450ab1eee4834c1cc743",
@@ -9068,7 +9505,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0434.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0434.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp840.jpg"
         },
         {
             "id": "89b4c97536794457ae1f2e18289fffe8",
@@ -9086,7 +9524,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp841.jpg"
         },
         {
             "id": "afa6e8ab2e714951a9bb68f26c4e1877",
@@ -9104,7 +9543,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp842.jpg"
         },
         {
             "id": "c6c1bb0e4cd0421ca1540709b1d02a43",
@@ -9122,7 +9562,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp843.jpg"
         },
         {
             "id": "5d25def87c9d457289aec376dffa44f1",
@@ -9144,7 +9585,8 @@
                 {
                     "english": "/hymn/h/6844"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp844.jpg"
         },
         {
             "id": "6f24f3b4ec684e5d84c9d3cc81806995",
@@ -9162,7 +9604,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp845.jpg"
         },
         {
             "id": "6910534c684947fd8b50ca61c703649f",
@@ -9180,7 +9623,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1064_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1064_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp846.jpg"
         },
         {
             "id": "609cfafbc62b4770aaf6771854f81dbe",
@@ -9198,7 +9642,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0033.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0033.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp847.jpg"
         },
         {
             "id": "8e113ab33c064794a5d6bd2cec3e10b1",
@@ -9220,7 +9665,8 @@
                 {
                     "english": "/hymn/h/6848"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp848.jpg"
         },
         {
             "id": "7cadd0c90b3b40c5a4cdeb22c8acb7c2",
@@ -9238,7 +9684,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp849.jpg"
         },
         {
             "id": "dd75b6670fb34e2ca3dd4f76e3c28293",
@@ -9263,7 +9710,8 @@
                 {
                     "spanish": "/hymn/hs/194"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp850.jpg"
         },
         {
             "id": "185982c6ed3e41aeac531a532e81ea4c",
@@ -9285,7 +9733,8 @@
                 {
                     "english": "/hymn/h/903"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp851.jpg"
         },
         {
             "id": "798db7f71297497fba9c978790fe356a",
@@ -9307,7 +9756,8 @@
                 {
                     "english": "/hymn/h/920"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp852.jpg"
         },
         {
             "id": "e69328f5c81f435b8813c1ed9fdc00ff",
@@ -9332,7 +9782,8 @@
                 {
                     "spanish": "/hymn/hs/414"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp853.jpg"
         },
         {
             "id": "99b15ccce58e447b9ccdbcc694a77ebb",
@@ -9357,7 +9808,8 @@
                 {
                     "spanish": "/hymn/hs/473"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp854.jpg"
         },
         {
             "id": "fc8ea4ba18ea4f569660f381e58d5368",
@@ -9379,7 +9831,8 @@
                 {
                     "english": "/hymn/h/1124"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp855.jpg"
         },
         {
             "id": "3c40db1f7e3e4896a20cc8f1feed6110",
@@ -9404,7 +9857,8 @@
                 {
                     "spanish": "/hymn/hs/145"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp856.jpg"
         },
         {
             "id": "a118d858b85244ac999bb52d9d4ed0b1",
@@ -9426,7 +9880,8 @@
                 {
                     "english": "/hymn/h/1294"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp857.jpg"
         },
         {
             "id": "c351e35bb72b4f32846e2b163ea9881e",
@@ -9448,7 +9903,8 @@
                 {
                     "english": "/hymn/h/1292"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp858.jpg"
         },
         {
             "id": "5a321b4fcbd04eca919d5c900abdf2f0",
@@ -9473,7 +9929,8 @@
                 {
                     "spanish": "/hymn/hs/420"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp859.jpg"
         },
         {
             "id": "7b4ef6b6fa5940e5997949d737264fe6",
@@ -9491,7 +9948,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp860.jpg"
         },
         {
             "id": "f628cf076dc54aa8a8e5e1c9a64bcd31",
@@ -9509,7 +9967,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0673.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0673.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp861.jpg"
         },
         {
             "id": "d926c5946e4748979bad5f0354ad17d6",
@@ -9527,7 +9986,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp862.jpg"
         },
         {
             "id": "879a74aca5394725bb659a85d37f1a01",
@@ -9545,7 +10005,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0273_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0273_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp863.jpg"
         },
         {
             "id": "021fc5e086b840ce90870e798635a92d",
@@ -9563,7 +10024,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp864.jpg"
         },
         {
             "id": "597c6bcdc0ad4f789fb78f9eeaa2e67d",
@@ -9581,7 +10043,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp865.jpg"
         },
         {
             "id": "3556378e3e654975b66bcb7ef893a469",
@@ -9599,7 +10062,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp866.jpg"
         },
         {
             "id": "4518dcbf471c465aa20bb19b95f915d9",
@@ -9617,7 +10081,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp867.jpg"
         },
         {
             "id": "656b120118284da0b49bee477331e543",
@@ -9635,7 +10100,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/LongBeach/mp3/lb22.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/LongBeach/ogg/lb22.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp868.jpg"
         },
         {
             "id": "2804c9d7d0f545c29712bee86888a57b",
@@ -9653,7 +10119,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0372.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0372.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp869.jpg"
         },
         {
             "id": "3ee8c39313a04730b53780d1b527a5c0",
@@ -9671,7 +10138,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp870.jpg"
         },
         {
             "id": "27a2552542974fe5bf22cc8e4c363b09",
@@ -9693,7 +10161,8 @@
                 {
                     "english": "/hymn/h/6871"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp871.jpg"
         },
         {
             "id": "449ddc7768ba48759b798859135d9d1d",
@@ -9711,7 +10180,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp872.jpg"
         },
         {
             "id": "579b05f728f2477ab85267a837b55577",
@@ -9729,7 +10199,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp873.jpg"
         },
         {
             "id": "d7060db926ba45d18f6cf319da8d0fe7",
@@ -9751,7 +10222,8 @@
                 {
                     "english": "/hymn/h/6874"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp874.jpg"
         },
         {
             "id": "72fe25f0a2ae4075958ea589877a8281",
@@ -9773,7 +10245,8 @@
                 {
                     "english": "/hymn/h/6875"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp875.jpg"
         },
         {
             "id": "1c190a9e921247e58d019c2848d0770b",
@@ -9791,7 +10264,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/LongBeach/mp3/lb11.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/LongBeach/ogg/lb11.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp876.jpg"
         },
         {
             "id": "7e179726bd704409b7efc2e588fddb83",
@@ -9809,7 +10283,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/LongBeach/mp3/lb66.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/LongBeach/ogg/lb66.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp877.jpg"
         },
         {
             "id": "875bfa286885452885784d125db0957f",
@@ -9827,7 +10302,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp878.jpg"
         },
         {
             "id": "1e3c9e1c981b4158829631d3e20bd1ce",
@@ -9845,7 +10321,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp879.jpg"
         },
         {
             "id": "303e907af14b40528f4eeb93fe0bbe19",
@@ -9863,7 +10340,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp880.jpg"
         },
         {
             "id": "103fcbd9e47045b6976c400d8de2b214",
@@ -9888,7 +10366,8 @@
                 {
                     "spanish": "/hymn/hs/446"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp901.jpg"
         },
         {
             "id": "fb44bc7ad20447a1a140d2f674e497a7",
@@ -9906,7 +10385,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0040_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0040_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp902.jpg"
         },
         {
             "id": "83dcab225c3d4523928ba112a96a32a9",
@@ -9924,7 +10404,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp903.jpg"
         },
         {
             "id": "87f14437f2d7421ca6b31084589f1eb2",
@@ -9942,7 +10423,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp904.jpg"
         },
         {
             "id": "0c40f92806064057b1db7b2bdec74cb8",
@@ -9967,7 +10449,8 @@
                 {
                     "spanish": "/hymn/hs/448"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp905.jpg"
         },
         {
             "id": "d02e343c102240fea8f4bb6723479f71",
@@ -9985,7 +10468,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp906.jpg"
         },
         {
             "id": "2fd645b94146474b92aea90b8f904514",
@@ -10003,7 +10487,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1021_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e1021_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp907.jpg"
         },
         {
             "id": "2dec4d7acf074a3ca38299cd85a3363d",
@@ -10021,7 +10506,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp908.jpg"
         },
         {
             "id": "d5b7a07996bc482188863d016ad77cab",
@@ -10046,7 +10532,8 @@
                 {
                     "spanish": "/hymn/hs/65"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp909.jpg"
         },
         {
             "id": "26023c0c4ec54f5babc4affb7dbfd24b",
@@ -10064,7 +10551,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e6819_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e6819_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp910.jpg"
         },
         {
             "id": "f15936c2391e4167907a9dc40417115b",
@@ -10082,7 +10570,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0921_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0921_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp911.jpg"
         },
         {
             "id": "1d22264787d34c8eb6dfa8244344a105",
@@ -10107,7 +10596,8 @@
                 {
                     "french": "/hymn/hf/188"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp912.jpg"
         },
         {
             "id": "e3aabd71c96444dfb081577f9106d3be",
@@ -10125,7 +10615,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0020_i.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/Hymnal/ogg/e0020_i.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp913.jpg"
         },
         {
             "id": "602ec784230f4df2ab50c28d0db2acd1",
@@ -10150,7 +10641,8 @@
                 {
                     "french": "/hymn/hf/187"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp914.jpg"
         },
         {
             "id": "20122e0b492a465e9c95551cb8041473",
@@ -10172,7 +10664,8 @@
                 {
                     "english": "/hymn/h/1318"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp915.jpg"
         },
         {
             "id": "599a3406b6f84bceb7a2fafad6d8e896",
@@ -10194,7 +10687,8 @@
                 {
                     "english": "/hymn/h/977"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp916.jpg"
         },
         {
             "id": "4537af35301d4ad89812fef17b8349d3",
@@ -10219,7 +10713,8 @@
                 {
                     "spanish": "/hymn/hs/402"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp917.jpg"
         },
         {
             "id": "947ff3a7a7ac47179a5bc2caef4dec73",
@@ -10241,7 +10736,8 @@
                 {
                     "english": "/hymn/h/710"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp918.jpg"
         },
         {
             "id": "f9fdadaa30334547a7731c0e5e2b2c8f",
@@ -10266,7 +10762,8 @@
                 {
                     "spanish": "/hymn/hs/432"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp919.jpg"
         },
         {
             "id": "e2dad2eba4734ee8b237da34dbfc826e",
@@ -10288,7 +10785,8 @@
                 {
                     "english": "/hymn/h/1304"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp920.jpg"
         },
         {
             "id": "7b6adb0d30e24ecf8eb84acf1de61043",
@@ -10310,7 +10808,8 @@
                 {
                     "english": "/hymn/h/1321"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp921.jpg"
         },
         {
             "id": "feba852d2e2148a5b60a178d3680551c",
@@ -10332,7 +10831,8 @@
                 {
                     "english": "/hymn/h/1305"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp922.jpg"
         },
         {
             "id": "19bc31c1fcbb491eaa84054126b696d3",
@@ -10357,7 +10857,8 @@
                 {
                     "french": "/hymn/hf/189"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp923.jpg"
         },
         {
             "id": "c8a3e3a6cd0f4323830c0c8540518631",
@@ -10379,7 +10880,8 @@
                 {
                     "english": "/hymn/h/1322"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp924.jpg"
         },
         {
             "id": "db9c5c8c364240a5be710df27ea9caf4",
@@ -10404,7 +10906,8 @@
                 {
                     "spanish": "/hymn/hs/459"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp925.jpg"
         },
         {
             "id": "9abbbfbf3ac14c2da4c80e55f186035d",
@@ -10422,7 +10925,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp926.jpg"
         },
         {
             "id": "db7d86671ef049c88b2275e5ab599140",
@@ -10440,7 +10944,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0018.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0018.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp927.jpg"
         },
         {
             "id": "016b22e1b3264e0eb3b8ee731192d2b0",
@@ -10458,7 +10963,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp928.jpg"
         },
         {
             "id": "75473a77a8d74780a54f808013182cbb",
@@ -10476,7 +10982,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0285.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0285.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp929.jpg"
         },
         {
             "id": "2dfcd33c97a74d70bacb736490a9f201",
@@ -10498,7 +11005,8 @@
                 {
                     "english": "/hymn/h/1307"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp930.jpg"
         },
         {
             "id": "613d74d62c3e4135bc55dd08b01de0ee",
@@ -10516,7 +11024,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp1001.jpg"
         },
         {
             "id": "c550068489294c9c9c5b1a93ed98c34b",
@@ -10534,7 +11043,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp1002.jpg"
         },
         {
             "id": "79e7228777aa432689a871df449e58f9",
@@ -10552,7 +11062,8 @@
             "pianoMedia": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0032.mp3",
             "pianoMedia2": "https://www.hymnal.net/Hymns/NewSongs/ogg/ns0032.ogg",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp1003.jpg"
         },
         {
             "id": "0f1cc29c736646238a7017cbd5933f13",
@@ -10574,7 +11085,8 @@
                 {
                     "french": "/hymn/hf/215"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymnsSupp/hymnsSupp1004.jpg"
         },
         {
             "id": "c11f0eea8f2f453bb878c7e3ff372b50",
@@ -10592,7 +11104,8 @@
             "pianoMedia": "",
             "pianoMedia2": "",
             "singMedia": "",
-            "languageUrl": []
+            "languageUrl": [],
+            "notationSpectrum": "hymnsSupp/hymnsSupp1005.jpg"
         }
     ]
 }

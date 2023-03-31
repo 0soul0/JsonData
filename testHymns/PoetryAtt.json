@@ -28,7 +28,8 @@
                 {
                     "spanish": "/hymn/hs/110"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymns/hymns1001.jpg"
         },
         {
             "id": "c70417839edb45efa67d265709d44554",
@@ -53,7 +54,8 @@
                 {
                     "spanish": "/hymn/hs/111"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymns/hymns1002.jpg"
         },
         {
             "id": "f1d27f18699544ffaed4d605ec8ee31f",
@@ -75,7 +77,8 @@
                 {
                     "english": "/hymn/h/1403"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymns/hymns1003.jpg"
         },
         {
             "id": "fa5932e01b624e0f97dc468d1b390b36",
@@ -97,7 +100,8 @@
                 {
                     "english": "/hymn/h/1404"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymns/hymns1004.jpg"
         },
         {
             "id": "a0ac48620b2c4c3e9a5b3f81492e8a28",
@@ -119,7 +123,8 @@
                 {
                     "french": "/hymn/hf/214"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymns/hymns1005.jpg"
         },
         {
             "id": "19e2d08f73044ef2ae7961a06ba15b8c",
@@ -141,7 +146,8 @@
                 {
                     "english": "/hymn/h/9006"
                 }
-            ]
+            ],
+            "notationSpectrum": "hymns/hymns1006.jpg"
         },
         {
             "id": "1f57c176e886480ca8fd016e9be09cc8",
@@ -163,7 +169,8 @@
                 {
                     "english": "/hymn/h/9007"
                 }
-            ]
+            ],
+            "notationSpectrum": ""
         }
     ]
 }
