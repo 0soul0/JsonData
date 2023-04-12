@@ -1,0 +1,141 @@
+{
+    "status": "success",
+    "statusCode": 200,
+    "data": [
+        {
+            "id": "b84ccfa43f1947cb82c39aea3c0d12a5",
+            "category": "Blessing of the Trinity",
+            "type": 32
+        },
+        {
+            "id": "b39a4e05a349409188f3eea52c3df32b",
+            "category": "Worship of the Father",
+            "type": 32
+        },
+        {
+            "id": "9ae8bc78cfc74e17b52bd1b977b4b841",
+            "category": "Praise of the Lord",
+            "type": 32
+        },
+        {
+            "id": "df5260937e994ba1b2289ffe36940bc5",
+            "category": "Fulness of the Spirit",
+            "type": 32
+        },
+        {
+            "id": "f66b3738120f4a988234972004ce78e0",
+            "category": "Assurance and Joy of Salvation",
+            "type": 32
+        },
+        {
+            "id": "ab84b21d4e4f44e8a3c460b31f39e601",
+            "category": "Longings",
+            "type": 32
+        },
+        {
+            "id": "1a93946d0c59477abc7b8a79cfdf01c3",
+            "category": "Consecration",
+            "type": 32
+        },
+        {
+            "id": "b1a6af449c9b4391acaf9d2c7cc08d8e",
+            "category": "Union with Christ",
+            "type": 32
+        },
+        {
+            "id": "f3326ef5554446f1b8f35ae4290cb0ba",
+            "category": "Experience of Christ",
+            "type": 32
+        },
+        {
+            "id": "74c27a3363cf4da1b2b0a578be666065",
+            "category": "Experience of God",
+            "type": 32
+        },
+        {
+            "id": "30cef6e76929477898873cdba610d48f",
+            "category": "Glorying in the Cross",
+            "type": 32
+        },
+        {
+            "id": "e303ef3546384187b8cba7299f221a27",
+            "category": "The Way of the Cross",
+            "type": 32
+        },
+        {
+            "id": "9f947b9bfa9c4824963b63cf20f23e2c",
+            "category": "The Resurrection Life",
+            "type": 32
+        },
+        {
+            "id": "db9ef5e45195472dbdfd1c542b82cdfe",
+            "category": "Encouragement",
+            "type": 32
+        },
+        {
+            "id": "2c4945d6a93846ef9d6410b24cb77b0b",
+            "category": "Comfort in Trials",
+            "type": 32
+        },
+        {
+            "id": "11e0d134118042a98c8482ca2d1c0e08",
+            "category": "Divine Healing",
+            "type": 32
+        },
+        {
+            "id": "c66b5ad2417b458b83beecb77a17dda0",
+            "category": "Prayer",
+            "type": 32
+        },
+        {
+            "id": "95b70a9288824354a1f3b2b66721490a",
+            "category": "Study of the Word",
+            "type": 32
+        },
+        {
+            "id": "e42902b9f1e045dca4abbcad547c605e",
+            "category": "The Church",
+            "type": 32
+        },
+        {
+            "id": "0937da6c008f482594727c87a58c9526",
+            "category": "Spiritual Warfare",
+            "type": 32
+        },
+        {
+            "id": "0693be36914c47c8ba3a8d49c71d5100",
+            "category": "Service",
+            "type": 32
+        },
+        {
+            "id": "8d90884f4889430a802506000a144eb6",
+            "category": "Preaching of the Gospel",
+            "type": 32
+        },
+        {
+            "id": "f91acf38b4584992a4f8661abc54dd86",
+            "category": "Baptism",
+            "type": 32
+        },
+        {
+            "id": "64a26de8cf0b4dd19d6ad4b458c20a86",
+            "category": "Hope of Glory",
+            "type": 32
+        },
+        {
+            "id": "f16fc8f1ae7d49d68b5d2915f9b83bef",
+            "category": "Ultimate Manifestation",
+            "type": 32
+        },
+        {
+            "id": "f63089bc92b347c6ad46bd4039514ea5",
+            "category": "Gospel",
+            "type": 32
+        },
+        {
+            "id": "3de676f03eeb4202ae10d61f30f42acc",
+            "category": "The Kingdom",
+            "type": 32
+        }
+    ]
+}
