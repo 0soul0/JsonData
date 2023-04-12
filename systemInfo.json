@@ -1,119 +1,139 @@
 {
   "id":"formal",
   "status":"success",
-  "appVersion":"1.0.1",
+  "appVersion":"1.3.4",
   "baseUrl":"https://raw.githubusercontent.com/0soul0/JsonData/main",
-  "updateContent":"收錄\n1.詩歌\n2.補充本\n3.新歌頌詠\n4.兒童詩歌\n5.新詩",
+  "updateContent":"收錄\n1.詩歌 2.補充本 3.新歌頌詠\n4.兒童詩歌 5.新詩 6.英文詩歌\n新增功能\n1.中英詩歌切換\n2.英文版介面\n3.分享樂譜",
   "files":[
     {
        "id":"0",
        "fileName":"Poetry",
        "dataVersion":"1",
-       "url":"/poetry/Poetry.json",
+       "url":"/testHymns/Poetry.json",
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"PoetryModel",
-       "name":"詩歌本"
+       "name":"詩歌本,(CN)Hymns"
     },
     {
        "id":"1",
        "fileName":"PoetryAtt",
        "dataVersion":"1",
-       "url":"/poetry/PoetryAtt.json",
+       "url":"/testHymns/PoetryAtt.json",
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"PoetryModel",
-       "name":"詩歌本(附)"
+       "name":"詩歌本(附),(CN)Hymns(Appx.)"
     },
     {
        "id":"2",
        "fileName":"CategoryPoetry",
        "dataVersion":"1",
-       "url":"/poetry/CategoryPoetry.json",
+       "url":"/testHymns/CategoryPoetry.json",
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"CatalogueModel",
-       "name":"詩歌本(目錄)"
+       "name":"詩歌本(目錄),(CN)Hymns"
     },
     {
        "id":"3",
        "fileName":"SubCategoryPoetry",
        "dataVersion":"1",
-       "url":"/poetry/SubCategoryPoetry.json",
+       "url":"/testHymns/SubCategoryPoetry.json",
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"SubCategoryModel",
-       "name":"詩歌本(子目錄)"
+       "name":"詩歌本(子目錄),(CN)Hymns(Subc.)"
     },
     {
        "id":"11",
        "fileName":"SupplementPoetry",
        "dataVersion":"1",
-       "url":"/poetry/SupplementPoetry.json",
+       "url":"/testHymns/SupplementPoetry.json",
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"PoetryModel",
-       "name":"補充本"
+       "name":"補充本,(CN)Hymns(Supp.)"
     },
     {
        "id":"13",
        "fileName":"SupplementCategoryPoetry",
        "dataVersion":"1",
-       "url":"/poetry/SupplementCategoryPoetry.json",
+       "url":"/testHymns/SupplementCategoryPoetry.json",
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"CatalogueModel",
-       "name":"補充本(目錄)"
+       "name":"補充本(目錄),(CN)Hymns(Supp.)"
     },
     {
        "id":"16",
        "fileName":"NewSongOfPraise",
        "dataVersion":"1",
-       "url":"/poetry/NewSongOfPraise.json",
+       "url":"/testHymns/NewSongOfPraise.json",
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"PoetryModel",
-       "name":"新歌頌詠"
+       "name":"新歌頌詠,New"
     },
     {
        "id":"17",
        "fileName":"NewSongOfPraiseCategory",
        "dataVersion":"1",
-       "url":"/poetry/NewSongOfPraiseCategory.json",
+       "url":"/testHymns/NewSongOfPraiseCategory.json",
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"CatalogueModel",
-       "name":"新歌頌詠(目錄)"
+       "name":"新歌頌詠(目錄),New"
     },
     {
        "id":"21",
        "fileName":"ChildrensHymn",
        "dataVersion":"1",
-       "url":"/poetry/ChildrensHymn.json",
+       "url":"/testHymns/ChildrensHymn.json",
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"PoetryModel",
-       "name":"兒童詩歌"
+       "name":"兒童詩歌,Children"
     },
      {
        "id":"22",
        "fileName":"ChildrensHymnCategory",
        "dataVersion":"1",
-       "url":"/poetry/ChildrensHymnCategory.json",
+       "url":"/testHymns/ChildrensHymnCategory.json",
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"CatalogueModel",
-       "name":"兒童詩歌(目錄)"
+       "name":"兒童詩歌(目錄),(CN)Children"
     },
      {
        "id":"26",
        "fileName":"NewHymns",
        "dataVersion":"1",
-       "url":"/poetry/NewHymns.json",
+       "url":"/testHymns/NewHymns.json",
        "updateDate":"2022-10-20",
        "updates":"1",
        "dbType":"PoetryModel",
-       "name":"新詩"
+       "name":"新詩,New tunes"
+    },
+     {
+       "id":"31",
+       "fileName":"PoetryEng",
+       "dataVersion":"3",
+       "url":"/testHymns/PoetryEng.json",
+       "updateDate":"2022-10-20",
+       "updates":"1",
+       "dbType":"PoetryModel",
+       "name":"詩歌(英文),Hymns"
+    },
+    {
+       "id":"32",
+       "fileName":"PoetryEngCategory",
+       "dataVersion":"2",
+       "url":"/testHymns/PoetryEngCategory.json",
+       "updateDate":"2022-10-20",
+       "updates":"1",
+       "dbType":"CatalogueModel",
+       "name":"詩歌(英文目錄),Hymns"
     }
     ]
 }
