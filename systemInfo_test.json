@@ -3,7 +3,7 @@
   "status":"success",
   "appVersion":"1.3.4",
   "baseUrl":"https://raw.githubusercontent.com/0soul0/JsonData/main",
-  "updateContent":"有新版本,更新起來",
+  "updateContent":"有新版本,更新起來\n新增\n1.深色模式\n2.新增目錄",
   "files":[
     {
        "id":"0",
