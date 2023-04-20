@@ -1,9 +1,5 @@
 # JsonData
 
-
-忘記改 目前是用測試線路且測試線路是最新的
-
-
 SystemInfo
 updates: //0 不更新 1更新 2 超過updateDate時間在更新
 id==type: 
