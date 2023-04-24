@@ -1,60 +1,93 @@
+Skip to content
+Search or jump to\u2026
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@0soul0 
+0soul0
+/
+JsonData
+Public
+Cannot fork because you own this repository and are not a member of any organizations.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Beta Try the new code view
+JsonData/testHymns/SupplementCategoryPoetry.json
+@0soul0
+0soul0 Add files via upload
+Latest commit db5f022 last month
+ History
+ 1 contributor
+61 lines (61 sloc)  1.71 KB
+ 
+
 {
     "status": "success",
     "statusCode": 200,
     "data": [
         {
             "id": "29f88a0b05164d13a95f55b994cde328",
-            "category": "讚美的話",
+            "category": "\u8b9a\u7f8e\u7684\u8a71",
             "type": 13
         },
         {
             "id": "0e055a03aca3492cbcb727470f6b4beb",
-            "category": "靈與生命",
+            "category": "\u9748\u8207\u751f\u547d",
             "type": 13
         },
         {
             "id": "7229a247b8984262bbd400dce4620f45",
-            "category": "享受基督",
+            "category": "\u4eab\u53d7\u57fa\u7763",
             "type": 13
         },
         {
             "id": "caa4e8004e7a4e609ed8693819a9b26b",
-            "category": "愛慕耶穌",
+            "category": "\u611b\u6155\u8036\u7a4c",
             "type": 13
         },
         {
             "id": "610583ae997b4099be09955dbab3b03b",
-            "category": "追求與長進",
+            "category": "\u8ffd\u6c42\u8207\u9577\u9032",
             "type": 13
         },
         {
             "id": "c0ad0b3f503640f885e7d67783bd1495",
-            "category": "教會的異象",
+            "category": "\u6559\u6703\u7684\u7570\u8c61",
             "type": 13
         },
         {
             "id": "5cafdc8fb6b34046ba2c4bae4936673e",
-            "category": "建造與合一",
+            "category": "\u5efa\u9020\u8207\u5408\u4e00",
             "type": 13
         },
         {
             "id": "3aa938aae4be4504837eaf4520388099",
-            "category": "教會的生活",
+            "category": "\u6559\u6703\u7684\u751f\u6d3b",
             "type": 13
         },
         {
             "id": "2ddd2fe4874c4107bc76875c5b864497",
-            "category": "事奉與福音",
+            "category": "\u4e8b\u5949\u8207\u798f\u97f3",
             "type": 13
         },
         {
             "id": "f0ed30aff4904863bd7a613882186341",
-            "category": "盼望與預備",
+            "category": "\u76fc\u671b\u8207\u8c6b\u5099",
             "type": 13
         },
         {
             "id": "25f7dcb3c3144609a07af4da47200c99",
-            "category": "神的經綸",
+            "category": "\u795e\u7684\u7d93\u7db8",
             "type": 13
         }
     ]
